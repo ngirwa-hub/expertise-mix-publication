@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## Unforeseen DC Adoption Barriers
+
+Here are five barriers to DC adoption, considering my role as a Low Voltage Systems & Automation Engineer (SME) with a focus on practical implementation and project delivery:
+
+1. **Lack of Standardized Component Lifecycle Management:** DC components, particularly converters and specialized cabling, may have significantly different failure modes and replacement schedules compared to traditional AC systems. A lack of standardized lifecycle management practices will increase maintenance costs and reduce system reliability.
+2. **Contractor Skill Gap & Training Costs:** Existing electrical contractors are primarily trained in AC systems. Retraining and upskilling the workforce to install, maintain, and troubleshoot DC systems will be a significant cost and logistical hurdle.
+3. **Cybersecurity Integration Complexity:** Integrating DC microgrids, particularly in industrial and data center environments, expands the attack surface. Ensuring robust cybersecurity controls across DC components and interfaces requires specialized expertise and potentially new security protocols.
+4. **Interoperability Concerns Across DC Voltage Levels:** As DC systems proliferate, differing voltage levels and communication protocols within and between systems could create interoperability issues, hindering scalability and creating integration headaches.
+5. **Retrofit Challenges & Existing Infrastructure Compatibility:** Integrating DC into existing buildings or industrial facilities presents significant challenges due to the need to interface with existing AC infrastructure and potentially replace substantial components.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Retrofit Costs
+Replacing existing AC infrastructure with DC is prohibitively expensive for many facilities, hindering adoption beyond greenfield projects.
+
+2. Lack of Standardized Component Availability
+While components exist, a lack of readily available, standardized DC components across voltage levels and functionalities creates supply chain challenges and limits design flexibility.
+
+3. Skilled Workforce Gap
+A shortage of engineers and technicians with expertise in DC systems design, installation, and maintenance poses a significant barrier to widespread implementation.
+
+4. Interoperability Concerns
+Ensuring seamless interoperability between diverse DC components from different vendors, particularly in complex systems, remains a technical challenge.
+
+5. Electromagnetic Interference (EMI) Mitigation
+DC systems can be more susceptible to EMI, requiring careful design and shielding to prevent interference with other equipment and maintain system reliability.

@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New Barriers to DC Adoption (Shift2DC Expert Elicitation)
+
+Here are five new barriers to DC adoption, considering my role as Senior Permitting and Regulatory Advisor:
+
+1. **Harmonized International Standards Gap:** Lack of globally recognized and harmonized standards for DC systems creates uncertainty for manufacturers and project developers, hindering cross-border deployment and increasing regulatory friction.
+2. **Legacy Grid Interoperability Concerns:** Integrating DC microgrids with existing AC grid infrastructure presents significant technical and permitting challenges, requiring complex protection schemes and potentially lengthy approval processes.
+3. **Public Safety Perception & Regulation:** Public perception of DC systems, particularly regarding electrical safety, could lead to stricter permitting requirements and delays, requiring extensive public outreach and safety demonstration.
+4. **Supply Chain Vulnerabilities:** Dependence on specialized components and materials for DC systems could create supply chain bottlenecks and increase project costs, especially if geopolitical factors influence availability.
+5. **Insurance & Liability Frameworks:** Current insurance and liability frameworks are largely built around AC systems. Adapting these to DC presents a regulatory hurdle and may initially increase project costs.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Harmonized Safety Standards**
+Lack of globally recognized and harmonized safety standards specific to low and medium voltage DC systems creates uncertainty and hinders widespread adoption due to differing regulations and potential liability concerns.
+
+2. **Retrofit Costs & Disruptions**
+Replacing existing AC infrastructure with DC in established buildings and industrial facilities is expensive and disruptive, presenting a significant hurdle for adoption beyond new constructions.
+
+3. **Lack of Trained Workforce**
+A shortage of skilled technicians and engineers familiar with DC system design, installation, and maintenance will slow deployment and increase operational risks.
+
+4. **Component Availability & Cost**
+Limited availability and high cost of specialized DC components (cables, converters, power supplies) compared to readily available AC alternatives restricts scalability and affordability.
+
+5. **Interoperability Challenges**
+Ensuring interoperability between different DC systems and components from various manufacturers is crucial, but currently lacks standardized protocols and testing procedures.

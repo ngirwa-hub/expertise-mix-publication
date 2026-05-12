@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## DC Adoption Barriers: Beyond the Obvious
+
+Here are five potential barriers to DC adoption, drawing on my Low Voltage Systems & Automation Engineer SME perspective:
+
+1.  **Lack of Standardized Component Certification:** Current certification processes are heavily AC-centric. A lack of readily available, DC-specific certifications for components (cables, converters, switchgear) will slow adoption and increase risk perception.
+2.  **Cybersecurity Integration Complexity:** Integrating DC systems, especially microgrids, introduces new attack vectors. Existing cybersecurity frameworks are primarily designed for AC systems, requiring significant adaptation and potentially costly implementations.
+3.  **Skill Gap in Field Service & Maintenance:** Existing electrical field personnel are trained on AC systems. A significant upskilling or retraining effort will be needed to ensure proper installation, maintenance, and troubleshooting of DC infrastructure.
+4.  **Legacy System Compatibility Issues:** Retrofitting DC solutions into existing facilities with predominantly AC infrastructure will be complex and expensive, requiring careful planning and potentially significant modifications.
+5.  **Public Perception & Safety Concerns (Beyond Awareness):** While the project mentions awareness, deeper public perception issues related to perceived higher voltage risks or unfamiliarity with DC technology could hinder acceptance, particularly in building applications.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Retrofit Costs & Disruption
+Replacing existing AC infrastructure with DC is expensive and disruptive, particularly in established facilities.
+
+2. Lack of Standardized Safety Protocols
+Current safety standards are heavily AC-centric; developing DC-specific protocols requires significant research and implementation.
+
+3. Interoperability Concerns
+Diverse DC voltage levels and communication protocols could hinder interoperability between different DC systems and components.
+
+4. Skilled Workforce Shortage
+A lack of engineers, technicians, and installers with expertise in DC systems will limit deployment and maintenance capabilities.
+
+5. Public Perception & Trust
+Limited public understanding and potential concerns about safety and reliability could slow adoption, especially in building applications.

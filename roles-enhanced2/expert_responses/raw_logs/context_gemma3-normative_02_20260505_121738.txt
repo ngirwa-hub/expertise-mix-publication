@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New Barriers to DC Adoption - Expert Elicitation
+
+Here are five new barriers to DC adoption, considering my Environmental, Regulatory & Socioeconomic Advisor role:
+
+1.  **Fragmented Regulatory Landscape:** Current environmental and safety regulations are largely framed around AC systems. Adapting these, or creating new ones specifically for DC, will be complex and time-consuming, creating uncertainty for project developers.
+2.  **Contractor Skill Gap & Liability:** Existing construction and maintenance contractors lack experience with DC systems. This introduces risks around quality, safety, and potential liability claims during installation and operation.
+3.  **Community Perception & Aesthetic Concerns:** Visible DC infrastructure (cables, converters) could face public resistance based on aesthetics and perceived safety risks, requiring careful community engagement and mitigation strategies.
+4.  **Legacy Grid Interoperability Costs:** Integrating DC microgrids with existing AC grids will necessitate expensive and complex interface equipment and control systems, hindering adoption in scenarios where full independence isn's required.
+5.  **End-of-Life Waste Management:** The specialized components in DC systems (e.g., power converters) may present unique waste management challenges and require new recycling processes, adding to overall costs and environmental impact.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Component Interoperability**
+Currently, DC component manufacturers operate with limited standardization, leading to interoperability challenges and hindering system integration.
+
+2. **Limited Availability of Skilled Installers & Maintainers**
+The scarcity of personnel trained in DC system installation and maintenance presents a significant bottleneck for widespread deployment.
+
+3. **Legacy Infrastructure Compatibility Issues**
+Retrofitting existing AC infrastructure with DC systems is complex and costly, limiting adoption in brownfield projects.
+
+4. **Cybersecurity Vulnerabilities in DC Microgrids**
+DC microgrids, with their distributed nature, introduce new cybersecurity risks that require specialized mitigation strategies.
+
+5. **Public Perception of Safety and Reliability**
+Concerns about the safety and reliability of DC systems, particularly among the general public, can impede acceptance and adoption.

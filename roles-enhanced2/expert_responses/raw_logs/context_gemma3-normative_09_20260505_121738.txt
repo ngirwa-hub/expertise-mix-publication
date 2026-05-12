@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New Barriers to DC Adoption
+
+Here are five new barriers to DC adoption, considering my Environmental, Regulatory & Socioeconomic Advisor role and the Shift2DC project details:
+
+1. **Harmonized International Frequency Standards:** Lack of global agreement on DC voltage and frequency standards will create interoperability issues and complicate cross-border deployments, particularly impacting the port use case with its focus on varying vessel frequencies.
+2. **Community Perception & Aesthetics:** DC infrastructure (cables, converters) may face public resistance due to visual impact and perceived safety concerns, requiring proactive community engagement and aesthetically pleasing design solutions.
+3. **Contractor Skill Gap & Training Costs:** Existing contractors lack experience with DC systems, leading to higher installation costs, potential errors, and delays, necessitating extensive training programs and potentially new specialized contractors.
+4. **Liability & Insurance Complexities:** The novelty of DC systems introduces uncertainty regarding liability for failures or accidents, potentially increasing insurance costs and hindering project financing.
+5. **Legacy System Integration Costs:** Retrofitting existing AC infrastructure with DC solutions can be prohibitively expensive and disruptive, requiring careful cost-benefit analyses and phased implementation strategies.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Safety Protocols**
+Current safety standards are largely built around AC systems; adapting and developing new protocols for DC, particularly at low and medium voltage, presents a significant hurdle.
+
+2. **Limited Availability of Skilled Technicians**
+Installation, maintenance, and troubleshooting of DC systems require specialized skills currently scarce in the workforce.
+
+3. **Retrofit Challenges in Existing Infrastructure**
+Integrating DC systems into existing AC-dominated buildings and industrial facilities is complex and potentially costly.
+
+4. **Component Cost & Scalability**
+While DC components are evolving, achieving cost-effective scalability for large-scale deployments remains a challenge.
+
+5. **Interoperability Concerns Across Vendors**
+Lack of standardized components can lead to interoperability issues between different DC solutions from various vendors.

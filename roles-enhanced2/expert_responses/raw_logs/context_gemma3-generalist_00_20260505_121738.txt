@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New DC Adoption Barriers - Generalist Energy & Sustainability Analyst Perspective
+
+Here are 5 new barriers to DC adoption, considering my role and expertise:
+
+1. **Lack of Standardized Interoperability:** Without universal standards for DC components and systems, integration across different vendors and applications will be difficult, hindering scalability and creating vendor lock-in.
+2. **Limited Availability of Trained Professionals:** A shortage of engineers and technicians with expertise in DC systems design, installation, and maintenance will slow deployment and increase costs.
+3. **Retrofit Costs & Disruption:** Replacing existing AC infrastructure with DC is expensive and disruptive, particularly in established buildings and industrial facilities. This creates a strong inertia against change.
+4. **Supply Chain Vulnerabilities:** Dependence on specific materials (e.g., rare earth elements for power converters) could create supply chain bottlenecks and price volatility, impacting project viability.
+5. **Public Perception & Safety Concerns:** A lack of public understanding about DC technology, coupled with potential concerns about electrical safety (despite being inherently safer in some aspects), could impede acceptance and adoption.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Component Lifecycles**
+DC component lifecycles (e.g., converter degradation, cable insulation) are less understood than AC, hindering long-term planning and maintenance budgets.
+
+2. **Limited Interoperability Testing & Certification**
+The absence of widely accepted interoperability testing and certification programs creates uncertainty and risk for system integrators and end-users.
+
+3. **Retrofit Costs & Disruption**
+Replacing existing AC infrastructure with DC systems in established facilities is often prohibitively expensive and disruptive to operations.
+
+4. **Workforce Skill Gap**
+A shortage of skilled technicians and engineers familiar with DC system design, installation, and maintenance will slow adoption.
+
+5. **Cybersecurity Vulnerabilities in DC Microgrids**
+DC microgrids, with their distributed nature, present unique cybersecurity challenges requiring specialized protection measures and expertise.

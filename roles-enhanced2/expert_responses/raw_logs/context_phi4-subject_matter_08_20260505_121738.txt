@@ -1,0 +1,15 @@
+=== Attempt 1 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Interoperability Challenges**
+   - The integration of DC systems with existing AC infrastructure poses significant technical hurdles. Interfacing between DC and AC components can lead to compatibility issues, necessitating additional converters that may increase costs and complexity.
+
+2. **Skill Gap in Workforce**
+   - There is a lack of adequately trained personnel for designing, installing, and maintaining DC systems. This skill gap can delay projects and increase the risk of errors during implementation, impacting overall efficiency and safety.
+
+3. **Market Perception and Investment Reluctance**
+   - The market's perception of DC as an emerging technology can lead to hesitancy among investors and stakeholders. Concerns about long-term viability and return on investment may deter funding and slow down adoption rates.
+
+4. **Regulatory and Standardization Bottlenecks**
+   - Current regulatory frameworks and standards are predominantly designed for AC systems, creating barriers for the standardization of DC technologies. This can lead to delays in approvals and increased compliance costs as new standards are developed and adopted.
+
+5. **Supply Chain Limitations**
+   - The supply chain for DC components is not as mature or diversified as that for AC systems. Limited availability of specialized parts like DC cables, converters, and protective devices can increase costs and cause project delays due to procurement challenges.

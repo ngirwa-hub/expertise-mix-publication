@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New Barriers to DC Adoption - Shift2DC Expert Elicitation
+
+Here are five new barriers to DC adoption, considering my Environmental, Regulatory & Socioeconomic Advisor role and focusing on potential permitting, compliance, and stakeholder challenges:
+
+1. **Frequency Conversion Liability & Standards:** Lack of clear liability frameworks and standardized conversion processes (AC to DC and vice versa) create legal uncertainty and potential for costly errors and equipment damage.
+2. **Legacy Infrastructure Integration Risk:** Retrofitting DC systems into existing AC-dominant infrastructure poses significant permitting hurdles related to grid stability, safety, and potential disruption during transition.
+3. **Community Perception of Novel Power Systems:** Public concerns about the safety and reliability of a less familiar power system (DC) could trigger permitting delays and opposition, particularly in densely populated areas.
+4. **Contractor Skill Gap & Liability:** A shortage of qualified contractors experienced in DC systems installation and maintenance will increase project costs and potential liability for performance failures.
+5. **Decommissioning & End-of-Life Management:** Lack of established protocols and regulations for decommissioning DC infrastructure and managing end-of-life components presents an emerging environmental and regulatory risk.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Component Safety Testing**
+Current safety testing standards are largely geared towards AC systems. Adapting or creating new standards for DC components will be crucial but time-consuming.
+
+2. **Cybersecurity Vulnerabilities in DC Microgrids**
+DC microgrids, particularly those integrating renewable energy and edge computing, present novel cybersecurity attack vectors that require specific mitigation strategies.
+
+3. **Limited Availability of Skilled Technicians**
+A shortage of technicians trained in DC system installation, maintenance, and troubleshooting will hinder widespread adoption and increase operational costs.
+
+4. **Retrofit Challenges in Existing Infrastructure**
+Replacing existing AC infrastructure with DC presents significant logistical and financial barriers, especially in older buildings and industrial facilities.
+
+5. **Interoperability Concerns Across Diverse DC Voltage Levels**
+The emergence of multiple competing DC voltage standards could lead to compatibility issues and limit the scalability of DC systems.

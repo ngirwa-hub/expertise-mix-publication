@@ -1,0 +1,74 @@
+{
+  "timestamp_utc": "2026-04-16T11:49:14.329771+00:00",
+  "input_dir": "/Users/HP/Documents/scrapping/working_dir/intermediate-mds",
+  "output_dir": "/Users/HP/Documents/scrapping/working_dir/final_mds/llm-generated-roles",
+  "model": "gpt-5.4-mini",
+  "dry_run": false,
+  "overwrite": true,
+  "targets": [
+    "generalist-midlevel.md",
+    "generalist-senior.md",
+    "normative-midlevel.md",
+    "normative-senior.md",
+    "sme-midlevel.md",
+    "sme-senior.md"
+  ],
+  "results": [
+    {
+      "input_file": "generalist-midlevel.md",
+      "output_file": "final-generalist-midlevel-run3.md",
+      "status": "generated",
+      "error": null,
+      "jobs_found": 11,
+      "warnings": null,
+      "generated_tokens": 416
+    },
+    {
+      "input_file": "generalist-senior.md",
+      "output_file": "final-generalist-senior-run3.md",
+      "status": "generated",
+      "error": null,
+      "jobs_found": 11,
+      "warnings": null,
+      "generated_tokens": 497
+    },
+    {
+      "input_file": "normative-midlevel.md",
+      "output_file": "final-normative-midlevel-run3.md",
+      "status": "generated",
+      "error": null,
+      "jobs_found": 9,
+      "warnings": null,
+      "generated_tokens": 497
+    },
+    {
+      "input_file": "normative-senior.md",
+      "output_file": "final-normative-senior-run3.md",
+      "status": "generated",
+      "error": null,
+      "jobs_found": 9,
+      "warnings": null,
+      "generated_tokens": 472
+    },
+    {
+      "input_file": "sme-midlevel.md",
+      "output_file": "final-sme-midlevel-run3.md",
+      "status": "generated",
+      "error": null,
+      "jobs_found": 12,
+      "warnings": null,
+      "generated_tokens": 497
+    },
+    {
+      "input_file": "sme-senior.md",
+      "output_file": "final-sme-senior-run3.md",
+      "status": "generated",
+      "error": null,
+      "jobs_found": 11,
+      "warnings": null,
+      "generated_tokens": 497
+    }
+  ],
+  "temperature": 0.2,
+  "run_tag": "run3"
+}

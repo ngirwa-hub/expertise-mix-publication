@@ -1,0 +1,7 @@
+profile_name,role_type,seniority_level,TDS,GRC,STC
+generalist-midlevel.md,Generalist,Mid-Level,1,2,2
+generalist-senior.md,Generalist,Senior,2,2,3
+normative-midlevel.md,Normative,Mid-Level,1,3,3
+normative-senior.md,Normative,Senior,1,3,3
+sme-midlevel.md,SME,Mid-Level,3,2,2
+sme-senior.md,SME,Senior,3,2,3

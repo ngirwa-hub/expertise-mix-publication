@@ -1,0 +1,189 @@
+{
+  "timestamp_utc": "2026-05-12T10:58:29.772371+00:00",
+  "embeddings_file": "/Users/HP/Documents/scrapping/working_dir/final_mds/llm-generated-roles/role-embeddings.json",
+  "include_untagged": false,
+  "min_similarity": -1.0,
+  "pair_count": 18,
+  "pairs": [
+    {
+      "role_key": "generalist-midlevel",
+      "track": "generalist",
+      "level": "midlevel",
+      "file_a": "final-generalist-midlevel-run1.md",
+      "run_a": "run1",
+      "file_b": "final-generalist-midlevel-run2.md",
+      "run_b": "run2",
+      "cosine_similarity": 0.9090535580058493
+    },
+    {
+      "role_key": "generalist-midlevel",
+      "track": "generalist",
+      "level": "midlevel",
+      "file_a": "final-generalist-midlevel-run1.md",
+      "run_a": "run1",
+      "file_b": "final-generalist-midlevel-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9260542967462858
+    },
+    {
+      "role_key": "generalist-midlevel",
+      "track": "generalist",
+      "level": "midlevel",
+      "file_a": "final-generalist-midlevel-run2.md",
+      "run_a": "run2",
+      "file_b": "final-generalist-midlevel-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9380946648841076
+    },
+    {
+      "role_key": "generalist-senior",
+      "track": "generalist",
+      "level": "senior",
+      "file_a": "final-generalist-senior-run1.md",
+      "run_a": "run1",
+      "file_b": "final-generalist-senior-run2.md",
+      "run_b": "run2",
+      "cosine_similarity": 0.937296682533119
+    },
+    {
+      "role_key": "generalist-senior",
+      "track": "generalist",
+      "level": "senior",
+      "file_a": "final-generalist-senior-run1.md",
+      "run_a": "run1",
+      "file_b": "final-generalist-senior-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9560489903240346
+    },
+    {
+      "role_key": "generalist-senior",
+      "track": "generalist",
+      "level": "senior",
+      "file_a": "final-generalist-senior-run2.md",
+      "run_a": "run2",
+      "file_b": "final-generalist-senior-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9241605236927732
+    },
+    {
+      "role_key": "normative-midlevel",
+      "track": "normative",
+      "level": "midlevel",
+      "file_a": "final-normative-midlevel-run1.md",
+      "run_a": "run1",
+      "file_b": "final-normative-midlevel-run2.md",
+      "run_b": "run2",
+      "cosine_similarity": 0.9439870571089392
+    },
+    {
+      "role_key": "normative-midlevel",
+      "track": "normative",
+      "level": "midlevel",
+      "file_a": "final-normative-midlevel-run1.md",
+      "run_a": "run1",
+      "file_b": "final-normative-midlevel-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.8947354525358572
+    },
+    {
+      "role_key": "normative-midlevel",
+      "track": "normative",
+      "level": "midlevel",
+      "file_a": "final-normative-midlevel-run2.md",
+      "run_a": "run2",
+      "file_b": "final-normative-midlevel-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9000791965430873
+    },
+    {
+      "role_key": "normative-senior",
+      "track": "normative",
+      "level": "senior",
+      "file_a": "final-normative-senior-run1.md",
+      "run_a": "run1",
+      "file_b": "final-normative-senior-run2.md",
+      "run_b": "run2",
+      "cosine_similarity": 0.9100241307494673
+    },
+    {
+      "role_key": "normative-senior",
+      "track": "normative",
+      "level": "senior",
+      "file_a": "final-normative-senior-run1.md",
+      "run_a": "run1",
+      "file_b": "final-normative-senior-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9209975412721074
+    },
+    {
+      "role_key": "normative-senior",
+      "track": "normative",
+      "level": "senior",
+      "file_a": "final-normative-senior-run2.md",
+      "run_a": "run2",
+      "file_b": "final-normative-senior-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9512713471884298
+    },
+    {
+      "role_key": "sme-midlevel",
+      "track": "sme",
+      "level": "midlevel",
+      "file_a": "final-sme-midlevel-run1.md",
+      "run_a": "run1",
+      "file_b": "final-sme-midlevel-run2.md",
+      "run_b": "run2",
+      "cosine_similarity": 0.8765317563425974
+    },
+    {
+      "role_key": "sme-midlevel",
+      "track": "sme",
+      "level": "midlevel",
+      "file_a": "final-sme-midlevel-run1.md",
+      "run_a": "run1",
+      "file_b": "final-sme-midlevel-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9402068291981246
+    },
+    {
+      "role_key": "sme-midlevel",
+      "track": "sme",
+      "level": "midlevel",
+      "file_a": "final-sme-midlevel-run2.md",
+      "run_a": "run2",
+      "file_b": "final-sme-midlevel-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.9476454507763422
+    },
+    {
+      "role_key": "sme-senior",
+      "track": "sme",
+      "level": "senior",
+      "file_a": "final-sme-senior-run1.md",
+      "run_a": "run1",
+      "file_b": "final-sme-senior-run2.md",
+      "run_b": "run2",
+      "cosine_similarity": 0.8774821244388226
+    },
+    {
+      "role_key": "sme-senior",
+      "track": "sme",
+      "level": "senior",
+      "file_a": "final-sme-senior-run1.md",
+      "run_a": "run1",
+      "file_b": "final-sme-senior-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.8551965858951112
+    },
+    {
+      "role_key": "sme-senior",
+      "track": "sme",
+      "level": "senior",
+      "file_a": "final-sme-senior-run2.md",
+      "run_a": "run2",
+      "file_b": "final-sme-senior-run3.md",
+      "run_b": "run3",
+      "cosine_similarity": 0.8485101149301624
+    }
+  ]
+}

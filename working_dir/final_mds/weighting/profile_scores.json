@@ -1,0 +1,58 @@
+{
+  "timestamp_utc": "2026-04-16T22:52:34.591650+00:00",
+  "model": "gpt-5.4-mini",
+  "variables_json": "/Users/HP/Documents/scrapping/working_dir/final_mds/weighting/generated_dimensions.json",
+  "profiles_folder": "/Users/HP/Documents/scrapping/working_dir/final_mds/weighting/final-profiles",
+  "results_count": 6,
+  "errors_count": 0,
+  "results": [
+    {
+      "profile_name": "generalist-midlevel.md",
+      "role_type": "Generalist",
+      "seniority_level": "Mid-Level",
+      "TDS": 1,
+      "GRC": 2,
+      "STC": 2
+    },
+    {
+      "profile_name": "generalist-senior.md",
+      "role_type": "Generalist",
+      "seniority_level": "Senior",
+      "TDS": 2,
+      "GRC": 2,
+      "STC": 3
+    },
+    {
+      "profile_name": "normative-midlevel.md",
+      "role_type": "Normative",
+      "seniority_level": "Mid-Level",
+      "TDS": 1,
+      "GRC": 3,
+      "STC": 3
+    },
+    {
+      "profile_name": "normative-senior.md",
+      "role_type": "Normative",
+      "seniority_level": "Senior",
+      "TDS": 1,
+      "GRC": 3,
+      "STC": 3
+    },
+    {
+      "profile_name": "sme-midlevel.md",
+      "role_type": "SME",
+      "seniority_level": "Mid-Level",
+      "TDS": 3,
+      "GRC": 2,
+      "STC": 2
+    },
+    {
+      "profile_name": "sme-senior.md",
+      "role_type": "SME",
+      "seniority_level": "Senior",
+      "TDS": 3,
+      "GRC": 2,
+      "STC": 3
+    }
+  ]
+}

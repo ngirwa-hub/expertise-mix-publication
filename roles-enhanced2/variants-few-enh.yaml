@@ -1,0 +1,84 @@
+variants:
+  phi4-generalist:
+    family: phi4
+    role: generalist
+    model: phi4-generalist-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  phi4-generalist2:
+    family: phi4
+    role: generalist
+    model: phi4-generalist2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  phi4-normative:
+    family: phi4
+    role: normative
+    model: phi4-normative-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  phi4-normative2:
+    family: phi4
+    role: normative
+    model: phi4-normative2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  phi4-subject_matter:
+    family: phi4
+    role: subject_matter
+    model: phi4-subject_matter-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  phi4-subject_matter2:
+    family: phi4
+    role: subject_matter
+    model: phi4-subject_matter2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  gemma3-generalist:
+    family: gemma3:12b
+    role: generalist
+    model: gemma-generalist-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  gemma3-generalist2:
+    family: gemma3:12b
+    role: generalist
+    model: gemma-generalist2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  gemma3-normative:
+    family: gemma3:12b
+    role: normative
+    model: gemma-normative-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  gemma3-normative2:
+    family: gemma3:12b
+    role: normative
+    model: gemma-normative2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  gemma3-subject_matter:
+    family: gemma3:12b
+    role: subject_matter
+    model: gemma-subject_matter-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  gemma3-subject_matter2:
+    family: gemma3:12b
+    role: subject_matter
+    model: gemma-subject_matter2-enh:latest
+    decoding_policy: native
+    enabled: true

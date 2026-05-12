@@ -1,0 +1,15 @@
+=== Attempt 1 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Cultural Resistance**
+   - Many stakeholders, including engineers and technicians accustomed to AC systems, may resist transitioning to DC technologies due to entrenched habits and comfort with existing infrastructure.
+
+2. **Interoperability Challenges**
+   - Existing electrical equipment is predominantly designed for AC use. Integrating DC solutions into current systems can present significant compatibility issues, requiring costly retrofitting or replacement of equipment.
+
+3. **Economic Uncertainty**
+   - The initial investment required for transitioning to DC systems may deter businesses and governments due to uncertain long-term cost benefits, especially in markets where AC technology is deeply entrenched and subsidized.
+
+4. **Supply Chain Limitations**
+   - The current supply chain infrastructure is heavily oriented towards AC components. This could lead to limited availability and higher costs of DC-specific parts like cables and converters, delaying widespread adoption.
+
+5. **Regulatory Hurdles**
+   - Existing regulations are primarily based on AC systems. Developing new standards and gaining regulatory approval for DC technologies can be a lengthy process, potentially stalling deployment efforts in various regions.

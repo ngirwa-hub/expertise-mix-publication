@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New Barriers to DC Adoption (Shift2DC Expert)
+
+Given my role as a Generalist Energy & Sustainability Analyst focused on data-led reporting and regulatory awareness, here are five new barriers to DC adoption beyond those already acknowledged:
+
+1.  **Lack of Standardized Data Protocols:** Currently, DC systems lack universal data communication protocols for monitoring, control, and integration with existing grid management systems. This hinders interoperability and scalability.
+2.  **Limited Lifecycle Cost Modeling Tools:** Existing tools primarily focus on upfront costs. A lack of robust lifecycle cost modeling specifically for DC systems makes ROI difficult to demonstrate, particularly considering potential equipment replacement and upgrades.
+3.  **Insurance & Liability Concerns:** Insurers are unfamiliar with DC systems and potential risks. This creates uncertainty and potentially higher premiums, impacting project viability and adoption rates.
+4.  **Skills Gap in Maintenance & Troubleshooting:** The existing workforce lacks the specialized skills required to maintain and troubleshoot DC systems, creating a dependency on external expertise and increasing operational costs.
+5.  **Retrofit Integration Complexity:** Integrating DC systems into existing AC infrastructure is likely to be complex and disruptive, especially in brownfield environments, presenting significant logistical and cost challenges.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Interoperability**
+Current DC solutions often lack common communication protocols, hindering integration between different vendors' hardware and software.
+
+2. **Limited Availability of Skilled Installers**
+A shortage of technicians trained in DC system installation and maintenance will slow deployment and increase costs.
+
+3. **Retrofit Costs & Disruption**
+Integrating DC into existing AC infrastructure (particularly in buildings) is complex, expensive, and disruptive, discouraging adoption.
+
+4. **Supply Chain Vulnerabilities**
+Reliance on specific components and materials for DC systems could create supply chain bottlenecks and price volatility.
+
+5. **Public Safety Perception & Concerns**
+Lack of familiarity and potential misconceptions about DC electricity could lead to public apprehension and resistance.
