@@ -1,0 +1,22 @@
+\begin{table}
+\caption{Variant-level stability based on pairwise Jensen-Shannon divergence across iterations.}
+\label{tab:variant_stability_jsd}
+\begin{tabular}{lllrrlr}
+\toprule
+Family & Role & Variant & Median Pairwise JSD & Std JSD & IQR & IQR Value \\
+\midrule
+Gemma3:12B & Generalist & Gemma3:12B Gen1 & 0.2365 & 0.1424 & [0.1080, 0.3310] & 0.2230 \\
+Gemma3:12B & Generalist & Gemma3:12B Gen2 & 0.3310 & 0.1708 & [0.3310, 0.5540] & 0.2230 \\
+Gemma3:12B & Normative & Gemma3:12B Norm1 & 0.2000 & 0.2240 & [0.2000, 0.6000] & 0.4000 \\
+Gemma3:12B & Normative & Gemma3:12B Norm2 & 0.2000 & 0.1313 & [0.2000, 0.2000] & 0.0000 \\
+Gemma3:12B & Subject-matter & Gemma3:12B SME1 & 0.2000 & 0.1820 & [0.1080, 0.4000] & 0.2920 \\
+Gemma3:12B & Subject-matter & Gemma3:12B SME2 & 0.3310 & 0.1771 & [0.2000, 0.5245] & 0.3245 \\
+Phi-4 & Generalist & Phi-4 Gen1 & 0.4000 & 0.1830 & [0.4000, 0.6000] & 0.2000 \\
+Phi-4 & Generalist & Phi-4 Gen2 & 0.5540 & 0.2013 & [0.4000, 0.6000] & 0.2000 \\
+Phi-4 & Normative & Phi-4 Norm1 & 0.4000 & 0.1860 & [0.2000, 0.4000] & 0.2000 \\
+Phi-4 & Normative & Phi-4 Norm2 & 0.4000 & 0.1868 & [0.2000, 0.6000] & 0.4000 \\
+Phi-4 & Subject-matter & Phi-4 SME1 & 0.4000 & 0.2007 & [0.4000, 0.6000] & 0.2000 \\
+Phi-4 & Subject-matter & Phi-4 SME2 & 0.4000 & 0.1595 & [0.2000, 0.4000] & 0.2000 \\
+\bottomrule
+\end{tabular}
+\end{table}
