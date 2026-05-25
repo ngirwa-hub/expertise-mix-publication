@@ -1,8 +1,8 @@
-This repository contains experiments performed and their results, as included in the EPIA manuscript. 
+This repository contains experiments performed and their results, as included in the <Anonymized-conference> manuscript. 
 
 Whereby: we have three folders (scrapping, working_dir, and roles-enhanced). 
 
-**scrapping & working_dir folder:** contains the initial context gathered when we obtained job advertisements to generate role profiles for LLM variants; more descriptions on core-scripts/files: 
+**Scrapping & Working_dir folder:** contains the initial context gathered when we obtained job advertisements to generate role profiles for LLM variants; more descriptions on core-scripts/files: 
 - Scrapping scripts based on websites, as accesses differ some had to have independent scripts based on access and content structures: energyjobsearch.py, euroclimate_scrapper.py, euroengineer_scrapper.py, rejobs_scrapper.py and scrapping.ipynb.
 - Folders: assessments, evaluation on standard contents, ealuation and categorization resulted into the following folders: scrapping/merged_jobs, scrapping/scrapped_jobs, scrapping/standardized_jobs.
 - Generating role-profiles and assessments are in working_dir folder:
@@ -11,8 +11,8 @@ Whereby: we have three folders (scrapping, working_dir, and roles-enhanced).
     - working_dir/src-roles/role-similarity.py: computing cosine similarity between the embeddings of the related role-profiles
     - the final role-profiles are at: working_dir/final_mds/final-profiles/
 
-**roles-enhanced folder:** contains scripts for prompting LLMs and analyzing generated responses, first the variants were prompted using {barrier_mention.py: inputs (variants lists:variants-few-enh.yaml, and variants-few-new-enh.yaml); counter file (context_barrierMention_counter.txt)}. Thereafter analysis (i.e., clustering and the Jaccard similarity index), in this order:
-- **Working on the data cleaning and analysis starts with:
+**Roles-enhanced folder:** contains scripts for prompting LLMs and analyzing generated responses, first the variants were prompted using {barrier_mention.py: inputs (variants lists:variants-few-enh.yaml, and variants-few-new-enh.yaml); counter file (context_barrierMention_counter.txt)}. Thereafter analysis (i.e., clustering and the Jaccard similarity index), in this order:
+- Working on the data cleaning and analysis starts with:
     1. Original working csv is: context_barrier_mention_all.csv
     2. recovering some rows which the script parser could not write them properly. 
         - Code cell: #cell 2: recovering
