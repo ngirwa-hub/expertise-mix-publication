@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Lack of Standardized DC Components**
+Explanation: The absence of widely accepted standards for DC components such as cables, connectors, and converters could lead to incompatibilities among different manufacturers, slowing down the adoption and integration of DC technologies.
+
+**Title 2: Insufficient Training and Skills**
+Explanation: A shortage of trained professionals with expertise in DC systems may hinder widespread adoption, particularly in industries that require specialized knowledge for maintenance, operation, and installation of DC infrastructure.
+
+**Title 3: Inadequate Funding and Investment**
+Explanation: Insufficient funding and investment from both public and private sectors could limit the deployment and research necessary to overcome technical barriers, develop new solutions, and accelerate the adoption of DC technologies.
+
+**Title 4: Regulatory Hurdles and Policy Uncertainty**
+Explanation: Complex regulatory frameworks or policy uncertainties may create obstacles for DC technology implementation, as regulations evolve more slowly than technological advancements. This could slow down the adoption process due to concerns over compliance and potential penalties.
+
+**Title 5: Public Perception and Awareness**
+Explanation: Limited understanding or skepticism among the general public regarding the benefits and safety of DC systems could hinder widespread adoption, as they may be hesitant to adopt new technologies without proper education and assurance of their reliability.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Fragmentation Barrier**
+   The lack of harmonized regulatory frameworks across different regions and countries can create obstacles for the widespread adoption of DC technologies, as companies may need to comply with multiple, sometimes conflicting, regulations.
+
+2. **Infrastructure Compatibility Barrier**
+   Existing AC infrastructure is vast and widespread, making it challenging to upgrade or replace with new DC systems without significant investment in compatible hardware and equipment.
+
+3. **Standardization Laggard Barrier**
+   The slow pace of standardization for DC components and interoperability protocols can hinder the growth of the market by making it difficult for manufacturers, distributors, and end-users to collaborate effectively.
+
+4. **Public Perception Barrier**
+   Public skepticism or misconceptions about the safety, reliability, and effectiveness of DC technologies can create barriers to widespread adoption, particularly in areas where AC systems are already well-established.
+
+5. **Skills Gap Barrier**
+   The need for specialized knowledge and expertise in DC design, installation, and maintenance may lead to a shortage of qualified professionals, hindering the growth and scalability of DC projects and systems.

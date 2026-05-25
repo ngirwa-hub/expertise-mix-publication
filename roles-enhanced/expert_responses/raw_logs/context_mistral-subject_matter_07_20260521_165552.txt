@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Lack of Standardization for DC Components**
+Explanation: The absence of uniform standards across various DC components can lead to compatibility issues, hindering seamless integration and efficient operation of DC systems. This lack of standardization may result in higher costs due to the need for custom solutions and increased maintenance requirements.
+
+Title 2: **Infrastructure Adaptation Challenges**
+Explanation: Transitioning to a DC infrastructure requires significant adaptations in existing electrical networks, including upgrading distribution systems and substations to handle DC current effectively. The high costs associated with these modifications can act as a barrier to widespread adoption of DC technologies.
+
+Title 3: **Skills Gap among Technicians**
+Explanation: As DC systems become more prevalent, there is an increasing need for technicians who are well-versed in DC technologies and their maintenance. The skills gap in this area could lead to a lack of qualified personnel to design, install, maintain, and troubleshoot DC systems, hindering their widespread adoption.
+
+Title 4: **Regulatory Hurdles**
+Explanation: Regulations governing electrical infrastructure are primarily designed for AC systems. The process of adapting these regulations to accommodate DC systems can be lengthy and complex, creating a barrier to the rapid deployment of DC technologies.
+
+Title 5: **Financing Barriers**
+Explanation: Investment in new DC technology can be perceived as risky by financial institutions due to its novelty and the lack of proven long-term success stories. This perception can make it difficult for companies and organizations to secure financing for DC projects, acting as a barrier to their adoption.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Lack of Standardization for DC Components**
+   - The absence of universally accepted standards for various DC components, such as cables, connectors, and converters, may lead to compatibility issues among different systems and manufacturers.
+
+2. **Skills Gap in DC Technology**
+   - Insufficient expertise and training in DC technology within the workforce could hinder effective implementation and maintenance of DC systems.
+
+3. **High Initial Investment Costs**
+   - The high upfront costs associated with DC infrastructure, including converters and batteries, may deter potential adopters due to the perceived long payback periods.
+
+4. **Regulatory Hurdles for DC Grid Integration**
+   - Existing regulations and grid codes may not be conducive to DC grid integration, necessitating modifications or approvals that could delay the adoption of DC systems.
+
+5. **Interoperability Challenges with AC Systems**
+   - The need for seamless interoperability between DC and existing AC systems could pose technical challenges, particularly in areas such as power management, synchronization, and data exchange.

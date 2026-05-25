@@ -1,0 +1,29 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. High Initial Investment (Title: High Costs) - The initial investment required for setting up DC infrastructure can be prohibitively high, making it difficult for small businesses or startups to adopt the technology.
+2. Lack of Standardization (Title: Lack of Consistent Standards) - Currently, there is no consistent standard for implementing DC systems, which leads to compatibility issues and makes it challenging for organizations to integrate DC with existing infrastructure.
+3. Limited Awareness (Title: Low Awareness) - Many businesses and individuals may not be aware of the benefits of DC technology or its potential applications in various industries, leading to slow adoption rates.
+4. Regulatory Hurdles (Title: Compliance Challenges) - The regulatory landscape for DC systems is still evolving, which can create compliance challenges and uncertainties for businesses looking to adopt the technology.
+5. Fear of System Failure (Title: Risk of System Malfunction) - Businesses may be hesitant to adopt DC due to concerns over system failures or malfunctions, leading to reliability issues that need to be addressed before widespread adoption can occur.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Legacy Infrastructure
+Short Title: Lack of Modernization
+Brief Explanation: Aging electrical infrastructure may not be able to support the transition to DC, necessitating expensive upgrades and retrofits.
+
+2. Interoperability Challenges
+Short Title: Unclear Standards
+Brief Explanation: The lack of universal standards for DC systems can create compatibility issues and hinder the adoption of new technologies by companies and industries.
+
+3. Public Perception Concerns
+Short Title: Safety & Reliability
+Brief Explanation: Many consumers may be hesitant to adopt DC technology due to concerns over safety, reliability, and energy efficiency compared to traditional AC systems.
+
+4. Workforce Training Inadequacies
+Short Title: Skills Gap
+Brief Explanation: The shift to DC requires specialized training for workers in various sectors, but current education and training programs may not adequately prepare them for these new roles.
+
+5. Regulatory Uncertainty
+Short Title: Legal Hurdles
+Brief Explanation: Unclear or evolving regulations can deter companies from investing in DC technology, as they risk facing legal challenges and potential financial penalties.
+

@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Regulatory Barriers for Cross-Border DC Transmission**
+Explanation: Lack of harmonized regulations for cross-border DC transmission can create challenges in standardizing grid interconnection requirements, which may hinder the widespread adoption of DC technologies across different countries.
+
+**Title 2: Interoperability Issues Between Existing AC Systems and New DC Infrastructure**
+Explanation: Compatibility problems between existing AC infrastructure and newly implemented DC systems might arise due to differences in communication protocols, voltage levels, or other technical aspects. These issues can lead to operational inefficiencies and increased costs during integration.
+
+**Title 3: Insufficient Funding for DC Research and Development**
+Explanation: Inadequate funding for research and development of innovative DC technologies may slow down their adoption rate, as resources are needed to develop cutting-edge solutions that meet industry standards and ensure long-term viability.
+
+**Title 4: Lack of Skilled Personnel for DC Maintenance and Operation**
+Explanation: As the shift towards DC systems continues, there may be a shortage of skilled professionals who possess the necessary knowledge to maintain and operate these advanced infrastructure components effectively. This gap in expertise can lead to potential safety risks and decreased system reliability.
+
+**Title 5: Public Perception and Awareness of DC Safety Concerns**
+Explanation: Misconceptions or concerns about the safety of DC systems among the general public could hinder widespread adoption, as people may be reluctant to use or invest in technologies they perceive as potentially hazardous. Addressing these misperceptions through education and outreach efforts is crucial for fostering acceptance and promoting the wider use of DC technologies.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Hurdles**
+   - Lack of standardized regulations for DC infrastructure, making it difficult to ensure compliance and safety across different jurisdictions.
+
+2. **Interoperability Issues**
+   - Incompatibility between various DC components and systems, hindering seamless integration and operation within a larger DC network.
+
+3. **Investment Barriers**
+   - High initial costs associated with DC technology compared to AC alternatives, making it challenging for investors to justify the investment without clear long-term benefits.
+
+4. **Skill Gap**
+   - Insufficient expertise and knowledge among professionals in DC technology, resulting in a lack of qualified personnel to design, install, and maintain DC systems.
+
+5. **Public Perception**
+   - Misconceptions or fear about the safety and reliability of DC systems among end-users, potentially hindering widespread adoption and acceptance.

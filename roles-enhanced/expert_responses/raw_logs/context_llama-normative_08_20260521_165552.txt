@@ -1,0 +1,27 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Cost Efficiency** - The high initial investment cost for implementing DC systems can be a significant barrier, especially for small or medium-sized businesses with limited budgets.
+2. **Inadequate Infrastructure** - DC infrastructure is not yet widespread, which could limit the availability of compatible hardware components and expertise in designing and maintaining DC systems.
+3. **Regulatory Uncertainty** - The lack of clear regulatory frameworks and standards for DC technologies can create uncertainty regarding their compliance, safety, and liability aspects, discouraging widespread adoption.
+4. **User Perception** - Many users may still be resistant to adopting new technology solutions due to concerns about reliability, maintenance, or the potential for system failures, limiting the uptake of DC systems.
+5. **Limited Awareness and Education** - Limited understanding and awareness of the benefits of DC technologies among stakeholders can hinder their adoption. This may be due to insufficient education campaigns or lack of information sharing, particularly in industries that have yet to adopt DC systems.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Legacy Infrastructure 
+   Brief explanation: DC systems require new and specialized hardware, which may be expensive to retrofit in existing infrastructures with predominantly AC power systems.
+   
+2. Interoperability Challenges 
+   Brief explanation: DC systems need to seamlessly integrate with existing AC infrastructure, without compromising system efficiency or safety. Ensuring interoperability is a major challenge for widespread DC adoption.
+
+3. Limited Awareness and Understanding 
+   Short title: Lack of Education & Awareness
+   Brief explanation: End-users and stakeholders may not understand the benefits and capabilities of DC technology, leading to reluctance in adopting these systems.
+   
+4. High Initial Costs 
+   Short title: Financial Barriers
+   Brief explanation: DC systems often have a higher upfront cost compared to traditional AC systems, which could deter potential adopters from investing in these technologies.
+
+5. Regulatory Uncertainty 
+   Short title: Legal & Policy Challenges
+   Brief explanation: The lack of comprehensive regulations and policies for DC technology may create uncertainty for businesses looking to adopt these systems, potentially slowing down the adoption process.
+

@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Hurdles for Cross-Border DC Transmission**
+Explanation: Lack of harmonized regulations across international borders may pose challenges to implementing DC transmission lines, leading to delays in project approvals and increased costs due to compliance requirements in multiple jurisdictions.
+
+Title 2: **Interoperability Compatibility Issues Among DC Equipment**
+Explanation: The absence of standardized communication protocols for various DC equipment may lead to interoperability issues, making it difficult to seamlessly integrate different components and systems in a DC infrastructure.
+
+Title 3: **Infrastructure Adaptation Costs for Converting from AC to DC**
+Explanation: Existing AC-based power grids require significant investment to adapt or replace equipment with DC-compatible counterparts, creating financial barriers that hinder the widespread adoption of DC technologies.
+
+Title 4: **Public Perception and Awareness Regarding DC Safety and Reliability**
+Explanation: Misconceptions about DC safety and reliability among the general public could lead to resistance against DC infrastructure implementation, delaying project timelines and increasing costs for public education and outreach efforts.
+
+Title 5: **Insufficient Training and Skills Development for DC Technicians**
+Explanation: A lack of trained professionals with expertise in DC technology may create a bottleneck in the deployment and maintenance of DC infrastructure, potentially leading to operational inefficiencies and higher costs for skilled labor.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Inconsistencies**
+   - Lack of harmonized international standards for DC systems, leading to regulatory uncertainties and potential legal disputes among countries.
+
+2. **Infrastructure Compatibility Issues**
+   - Existing AC-based infrastructure may not easily accommodate DC systems, requiring significant upgrades or replacements, which could be costly and time-consuming.
+
+3. **Skill Gap in DC Technology**
+   - Limited technical expertise among professionals in the field, making it challenging to design, install, and maintain DC systems effectively and efficiently.
+
+4. **Financing Challenges**
+   - Difficulty in securing investments for DC projects due to perceived risks, lack of proven track record, and high initial costs compared to AC technologies.
+
+5. **Public Perception and Acceptance**
+   - Negative public attitudes towards new technology or fear of the unknown could hinder widespread adoption of DC systems, especially if proper education and communication efforts are not implemented.

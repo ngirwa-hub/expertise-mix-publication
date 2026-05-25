@@ -1,0 +1,37 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. Lack of standardization: Without clear industry standards for design, installation, and maintenance of direct current (DC) systems, it becomes challenging to ensure interoperability between different components and systems.
+2. High initial investment: DC technology solutions often require significant upfront costs for hardware, software, and system integration, which may deter potential adopters who are hesitant to make large investments.
+3. Skilled labor shortage: As the demand for professionals with expertise in DC technologies grows, there might be a shortage of skilled workers capable of designing, installing, and maintaining these systems, hindering widespread adoption.
+4. Insufficient awareness and understanding: Many stakeholders, including end-users, policymakers, and industry professionals, may lack sufficient knowledge about the benefits and applications of DC technologies, resulting in slow acceptance rates.
+5. Regulatory hurdles: Unclear or conflicting regulations at local, national, and international levels can create barriers to DC adoption by imposing restrictions on the use of DC systems or delaying their approval processes.
+
+
+=== Attempt 2 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. Lack of standardized regulations and safety guidelines for DC systems
+2. High initial investment costs for implementing DC systems in existing infrastructures
+3. Limited availability of skilled professionals with expertise in DC technologies
+4. Resistance from stakeholders, including electricity utilities and grid operators, to adopting new power distribution methods
+5. Insufficient public awareness and understanding of the benefits and potential of DC systems
+
+
+=== Attempt 3 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. 
+Title: Inadequate Standardization and Interoperability
+Explanation: Lack of standardized protocols and communication interfaces between different DC components can hinder the adoption of DC technologies, as it increases complexity in system integration and maintenance.
+
+2. 
+Title: High Initial Investment
+Explanation: DC systems often require significant upfront investments in hardware, software, and infrastructure, making them less accessible to smaller players in the market and slowing down widespread adoption.
+
+3. 
+Title: Regulatory Uncertainty
+Explanation: The lack of clear regulatory guidelines for DC systems may deter potential adopters due to concerns over legal compliance, safety, and liability issues.
+
+4. 
+Title: Limited Awareness and Understanding
+Explanation: Lack of knowledge or awareness about the benefits and capabilities of DC technologies among stakeholders can hinder their adoption, as it leads to skepticism and reluctance in embracing new systems.
+
+5. 
+Title: Technological Incompatibility with Legacy Systems
+Explanation: The need for significant system overhaul or retrofitting to accommodate DC technologies can pose a barrier to adoption, especially for organizations that are heavily reliant on legacy systems and infrastructure.
+

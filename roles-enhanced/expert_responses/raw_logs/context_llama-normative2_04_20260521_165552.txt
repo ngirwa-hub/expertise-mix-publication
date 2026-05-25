@@ -1,0 +1,29 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. Unavailability of skilled workforce for DC-related installations: Lack of professionals trained in designing, installing, and maintaining low and medium voltage direct current systems may hamper the widespread adoption of these technologies.
+2. Inadequate government support and financial incentives: Without proper backing from regulatory authorities or monetary benefits for businesses adopting DC technologies, companies might be hesitant to invest in such systems.
+3. Resistance to change in industries: Traditional power supply systems have been in place for decades, and resistance to change among industry stakeholders could discourage the adoption of direct current systems.
+4. Complexity of interfacing DC systems with existing infrastructure: Integrating DC systems with existing electrical infrastructure can pose challenges due to compatibility issues and potential safety concerns.
+5. Lack of public awareness and understanding: Insufficient knowledge about the benefits and applications of direct current technologies among the general public may lead to reluctance in adopting these systems.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Unproven Reliability
+Short Title: DC Equipment Durability
+Brief Explanation: DC systems are still relatively new, and there is a lack of proven reliability data for long-term use in various applications. Ensuring the longevity of DC components and their ability to withstand harsh environments without failures is essential before widespread adoption can be achieved.
+
+1. Inadequate Standardization
+Short Title: Lacking Industry Standards
+Brief Explanation: The absence of standardized testing procedures, safety protocols, and certification processes for DC systems hinders their adoption. A unified industry-wide approach to these aspects would help build trust in the technology and reduce barriers to implementation.
+
+1. High Initial Investment
+Short Title: DC System Cost
+Brief Explanation: DC components can be more expensive than traditional AC solutions, making it difficult for businesses to justify the switch without significant cost savings or benefits. Lowering the entry costs of DC systems could help overcome this barrier and encourage adoption in various industries.
+
+1. Resistance to Change
+Short Title: Adoption Reluctance
+Brief Explanation: The transition from AC to DC systems requires significant changes in infrastructure, including hardware and software updates. Industry stakeholders may be resistant to such transformations due to the potential risks, costs, and disruptions involved. Addressing these concerns through proper planning, communication, and support could help overcome this barrier.
+
+1. Limited Access to Expertise
+Short Title: Lack of DC Experts
+Brief Explanation: The limited availability of skilled professionals experienced in designing, installing, and maintaining DC systems presents a significant challenge for organizations looking to adopt the technology. Providing adequate training opportunities and fostering collaboration between industry experts would help address this barrier and promote DC adoption.
+

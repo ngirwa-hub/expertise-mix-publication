@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Compatibility Challenges with Existing AC Infrastructure**
+- Explanation: The integration of DC systems into existing AC-based infrastructure may pose significant compatibility issues, requiring extensive modifications or replacements of equipment that can be costly and time-consuming.
+
+**Title 2: Lack of Standardization in DC Components and Systems**
+- Explanation: The absence of universally accepted standards for DC components and systems could lead to interoperability problems, making it difficult to ensure seamless integration and operation across different applications and manufacturers.
+
+**Title 3: Insufficient Training and Skills Development**
+- Explanation: A lack of training programs and skilled professionals familiar with DC technologies may hinder widespread adoption, as there will be a need for adequate knowledge transfer and competency development within the workforce to support installation, maintenance, and troubleshooting.
+
+**Title 4: High Initial Investment Costs for Conversion and Equipment**
+- Explanation: The cost of converting existing AC systems to DC or purchasing new DC equipment can be prohibitive for many organizations, especially for those with limited budgets who may prioritize other capital investments over the transition to DC technologies.
+
+**Title 5: Regulatory Barriers and Uncertainty in Policy Frameworks**
+- Explanation: The lack of clear regulations and policy frameworks specific to DC technologies can create uncertainty and discourage investment, as stakeholders may be unsure about compliance requirements, incentives, and potential liabilities associated with the adoption of these technologies.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Hurdles**
+   The lack of standardized regulations and guidelines for DC systems can create barriers to widespread adoption, as it may lead to confusion and uncertainty among stakeholders regarding system safety, compatibility, and interoperability.
+
+2. **Infrastructure Upgrades**
+   Existing AC infrastructure is often not easily adaptable to DC, requiring significant upgrades or replacements of components such as transformers, cabling, and outlets. This can be cost-prohibitive for many organizations.
+
+3. **Training and Skills Gap**
+   The shift towards DC technologies requires a workforce with the appropriate skills and knowledge to design, install, and maintain these systems. A skills gap may exist due to the relatively low adoption of DC technologies compared to AC.
+
+4. **Interoperability Challenges**
+   Ensuring compatibility between different DC components from various manufacturers can be challenging due to the lack of standardization in terms of voltage levels, communication protocols, and connectors.
+
+5. **Power Quality Issues**
+   Direct current systems may exhibit power quality issues such as harmonic distortion, which can lead to equipment malfunction or reduced lifespan if not properly addressed during system design and installation. This can create additional costs for users and require specialized expertise to resolve.

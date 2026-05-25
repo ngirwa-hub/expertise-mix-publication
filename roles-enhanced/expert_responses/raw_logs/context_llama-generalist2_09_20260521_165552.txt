@@ -1,0 +1,29 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Limited Availability of DC Equipment:** A lack of specialized equipment for direct current systems, leading to longer implementation times and higher costs.
+2. **Inadequate Regulatory Guidelines:** Insufficient regulations or standards for direct current systems, making it difficult for utilities and businesses to invest in DC infrastructure with confidence.
+3. **Technical Complexity for Non-Experts:** The complexity of DC technology may deter non-experts from adopting it due to the need for specialized knowledge and technical support.
+4. **High Initial Investment:** DC systems often require significant upfront investments, making them less attractive for small businesses or projects with limited budgets.
+5. **Limited Awareness & Acceptance:** Public perception and acceptance of direct current technologies may be slow to change due to the lack of understanding about their benefits and potential risks.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Insufficient regulations and standards for widespread adoption
+Title: Lack of clear guidelines and enforcement mechanisms
+Explanation: DC technologies require specific regulations and standards to ensure their safe and efficient use in various sectors, such as industry or buildings. Currently, there are limited standards and regulations available for DC systems, which could hinder the adoption of these technologies on a large scale.
+
+2. Limited availability of compatible hardware components
+Title: Scarcity of specialized hardware for DC applications
+Explanation: The implementation of DC systems often requires specialized hardware components that are not widely available or compatible with existing infrastructures. This lack of availability can limit the widespread adoption and integration of DC technologies.
+
+3. High upfront costs and challenges in financing
+Title: Financial barriers to entry for DC systems
+Explanation: DC systems often have higher initial investment costs compared to traditional AC systems, which could deter potential adopters from implementing these technologies. Additionally, the complex nature of some DC applications might require specialized expertise and added expenses that are not always available or feasible for smaller organizations.
+
+4. Insufficient knowledge and awareness among stakeholders
+Title: Limited understanding of DC technology benefits
+Explanation: A lack of knowledge and awareness about the potential advantages and benefits of DC systems can hinder adoption. This includes not only technical aspects but also environmental, economic, and social benefits that could encourage wider acceptance and implementation of these technologies.
+
+5. Resistance to change from industry professionals
+Title: Reluctance to adopt new technology
+Explanation: Industry professionals may resist the adoption of DC systems due to concerns about their experience and familiarity with existing technologies, as well as potential changes in job roles or required skill sets. This resistance can create barriers for the widespread adoption of DC technologies within specific industries.
+

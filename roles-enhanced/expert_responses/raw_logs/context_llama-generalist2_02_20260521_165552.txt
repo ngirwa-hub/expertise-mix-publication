@@ -1,0 +1,23 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Limited Understanding of Technical Benefits**: Lack of awareness about the advantages of DC technology among end-users, decision-makers, and industry professionals. This results in resistance to adopting new systems due to perceived complexity or insufficient knowledge about the benefits.
+2. **High Initial Investment**: Implementing DC technologies often requires significant upfront investments, which may discourage smaller businesses or organizations with limited budgets from adopting these solutions.
+3. **Inadequate Regulatory Support**: Lack of clear regulations and standards for DC systems, which can create uncertainty about their compliance and safety. This hinders the growth of the industry as stakeholders hesitate to invest in new technologies due to regulatory risks.
+4. **Limited Interoperability with Existing Infrastructure**: Many existing infrastructures are designed for AC systems, making it challenging to integrate DC solutions without significant modifications or upgrades. This can lead to increased costs and technical difficulties in implementing DC technologies.
+5. **Insufficient Skilled Workforce**: The shift to DC technology demands specialized skills that may not be readily available within the workforce, leading to a shortage of qualified professionals capable of designing, installing, or maintaining these systems. This can result in delays and increased costs for organizations adopting DC solutions.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+New Barriers to DC Adoption (5)
+==============================
+
+1. **Insufficient Technical Knowledge**
+    * Lack of awareness and understanding among end-users about the benefits and applications of DC technologies
+2. **High Implementation Costs**
+    * The initial investment for retrofitting existing systems or purchasing new DC equipment might be prohibitively expensive for some businesses
+3. **Inadequate Regulatory Support**
+    * Inconsistent regulations and standards across regions, making it difficult to implement DC solutions on a larger scale
+4. **Limited Supplier Capability**
+    * Availability of specialized hardware components and software tools for DC applications is limited, leading to challenges in implementing new technologies effectively
+5. **Inadequate Maintenance and Support**
+    * Lack of proper maintenance and support services for DC systems can lead to increased downtime and potential safety hazards.
+

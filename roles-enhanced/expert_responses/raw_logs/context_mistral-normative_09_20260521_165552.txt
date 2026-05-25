@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Lack of Standardization for DC Components**
+Explanation: The absence of universal standards for DC components, such as cables, connectors, and converters, can lead to compatibility issues among various systems and manufacturers, hindering widespread adoption of direct current technologies.
+
+Title 2: **Integration Challenges with Existing AC Infrastructure**
+Explanation: The complexity in integrating DC solutions into existing alternating current (AC) infrastructure may pose a significant barrier due to the need for extensive upgrades and modifications, which can be costly and time-consuming.
+
+Title 3: **Regulatory Hurdles and Policy Uncertainty**
+Explanation: Regulatory barriers, such as unclear policies, outdated regulations, and slow approval processes related to DC technologies, can create uncertainty for investors and project developers, impeding the widespread adoption of direct current systems.
+
+Title 4: **Insufficient Investment in Research & Development**
+Explanation: Limited investment in research and development (R&D) efforts for DC technologies may result in a lack of innovative solutions, hindering progress in overcoming technical challenges and improving efficiency, which can ultimately slow the adoption of direct current systems.
+
+Title 5: **Skills Gap Among Workforce and Technicians**
+Explanation: The need for specialized knowledge and skills related to DC technologies may create a skills gap among the workforce and technicians, making it challenging for organizations to implement and maintain DC solutions effectively, potentially slowing down adoption.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Barrier - Inconsistent DC Standards Across Regions**
+   The lack of harmonized standards for DC systems across different regions could lead to incompatibility issues, making it challenging to implement and scale up the adoption of DC technologies globally.
+
+2. **Technical Barrier - Interoperability Amongst DC Devices**
+   Compatibility problems between various DC devices, such as cables, converters, and hardware components, may arise due to differences in voltage levels or technical specifications, limiting the efficiency and widespread use of DC systems.
+
+3. **Infrastructure Barrier - Existing AC Grid Integration Challenges**
+   The integration of existing AC grids with DC systems might face difficulties due to the need for conversion stations, potentially increasing costs and energy loss during the transition process.
+
+4. **Financial Barrier - Higher Upfront Costs for DC Infrastructure**
+   Investing in new DC infrastructure may entail higher initial costs compared to AC systems, which could discourage potential adopters from implementing DC technologies, especially for small-scale projects with limited budgets.
+
+5. **Public Perception Barrier - Awareness and Acceptance of DC Technologies**
+   Public skepticism or lack of understanding about the benefits and safety aspects of DC systems might hinder widespread adoption, necessitating increased public education and outreach efforts to promote acceptance and awareness among end-users.

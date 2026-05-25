@@ -1,0 +1,20 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Inadequate safety standards and regulations**: Lack of clear safety guidelines and enforcement can hinder the adoption of DC systems, leading to potential risks or accidents.
+2. **Limited availability of compatible hardware components**: Limited selection of compatible hardware components for DC systems may limit their adoption, as businesses might not find suitable options for their requirements.
+3. **Insufficient training and education resources**: Inadequate training programs and educational resources can make it difficult for professionals to learn and implement DC technologies effectively.
+4. **High initial investment costs**: DC systems often come with higher upfront costs compared to traditional AC systems, which might discourage businesses from adopting them.
+5. **Potential resistance from established industries**: Traditional industries and stakeholders may resist the adoption of DC technologies due to concerns over system reliability, compatibility, or performance, leading to slower adoption rates.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Title: Cost Disparity between AC and DC Systems
+Explanation: One of the main barriers to DC adoption is the cost disparity between alternating current (AC) and direct current systems, especially in smaller installations. The upfront investment for purchasing and installing DC components might be higher than that of their AC counterparts, which can discourage potential users from switching to DC technology.
+2. Title: Lack of Awareness and Understanding
+Explanation: Many stakeholders may not be aware of the benefits and capabilities of direct current systems or how they could potentially improve efficiency in their operations. Increasing awareness about the advantages and understanding of DC technologies is crucial for overcoming this barrier to adoption.
+3. Title: Technical Complexity and Higher Skilled Labour Needs
+Explanation: The implementation of DC systems can require specialized technical expertise, as well as skilled workforce availability. This could lead to higher labour costs or delays in commissioning and deployment. Addressing the skills gap and simplifying the integration process for DC systems would help reduce these barriers.
+4. Title: Interoperability Challenges with Existing Infrastructure
+Explanation: DC systems may not be compatible with existing AC infrastructure, leading to interoperability challenges during integration. Ensuring seamless integration and compatibility between DC and AC systems is crucial for overcoming this barrier to adoption.
+5. Title: Regulatory Uncertainty and Compliance Issues
+Explanation: The lack of clear regulatory frameworks and compliance requirements can create uncertainty in the market, discouraging potential users from adopting DC technologies. Streamlining regulatory guidelines and ensuring compliance with safety standards could help reduce this barrier to adoption.
+

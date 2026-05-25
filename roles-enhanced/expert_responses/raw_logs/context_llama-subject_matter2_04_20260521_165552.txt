@@ -1,0 +1,20 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Cost-effectiveness**: High initial investment costs of DC systems compared to AC infrastructure, creating barriers for small businesses or residential areas where cost efficiency is crucial.
+2. **Infrastructure compatibility**: Limited availability of compatible hardware and software components for DC systems, requiring significant changes in the existing grid infrastructure, posing potential technical challenges and high implementation costs.
+3. **Limited expertise and resources**: Lack of skilled professionals and resources to properly design, install, maintain, and troubleshoot DC systems, leading to lower adoption rates and reduced efficiency.
+4. **Regulatory hurdles**: Different regulations and standards for AC and DC power systems at the local, regional, or national level, creating uncertainty and confusion in implementing DC technologies, potentially delaying projects.
+5. **Public perception and trust**: Concerns about safety and reliability of DC systems compared to traditional AC infrastructure may hinder adoption, especially among consumers who are not well-informed about the benefits and advantages of DC technology.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Title: Interoperability Challenges
+Explanation: Ensuring compatibility between different DC systems and components, including hardware, software, and communication protocols, is a significant barrier to widespread adoption of DC technology.
+2. Title: Legacy Infrastructure
+Explanation: Upgrading and retrofitting existing infrastructure to accommodate DC systems can be costly and time-consuming, posing a challenge for transitioning from traditional AC power systems.
+3. Title: Limited Knowledge and Awareness
+Explanation: Lack of understanding about the benefits and potential of DC technologies among stakeholders, including decision-makers, end-users, and industry professionals, hinders adoption and implementation.
+4. Title: High Implementation Costs
+Explanation: The initial investment required to implement and integrate DC systems into existing infrastructure can be substantial, making it difficult for smaller businesses or organizations to adopt these technologies.
+5. Title: Regulatory Uncertainty
+Explanation: As DC technology is still evolving, there may be ambiguity or lack of clarity in regulations and standards, creating uncertainty for industries looking to implement DC systems and potentially slowing down adoption rates.
+

@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Regulatory Hurdles for DC Grid Integration**
+Explanation: The absence of standardized regulations and policies specifically designed for direct current (DC) grids can pose significant challenges in terms of grid interconnection, safety, and operational guidelines.
+
+**Title 2: Infrastructure Compatibility Issues**
+Explanation: Existing electrical infrastructure, primarily built around alternating current (AC), may not be easily compatible with DC systems, necessitating costly upgrades or retrofitting to accommodate the transition.
+
+**Title 3: Skills Gap and Training Needs**
+Explanation: The lack of expertise in DC technologies among professionals in the energy sector could lead to inefficiencies and potential safety risks during installation, maintenance, and operation of DC systems.
+
+**Title 4: Financial Barriers for Initial Investments**
+Explanation: High upfront costs associated with implementing DC solutions may deter investors and stakeholders, as they seek a rapid return on investment, delaying the widespread adoption of DC technologies.
+
+**Title 5: Public Perception and Awareness**
+Explanation: Limited understanding and acceptance of DC technologies among end-users, including consumers and businesses, could impede the market penetration of DC solutions, as they may perceive them as less reliable or efficient compared to AC systems.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Standardization Challenges**
+   - Lack of universal DC standards for components and systems, causing interoperability issues between different manufacturers.
+
+2. **Infrastructure Adaptation**
+   - Existing AC infrastructure requires significant modifications to accommodate DC, including upgrading transformers and power distribution equipment.
+
+3. **Regulatory Hurdles**
+   - Outdated energy regulations may not account for the use of DC systems, creating barriers to adoption due to legal complications and potential non-compliance.
+
+4. **Education and Training**
+   - A lack of skilled professionals with expertise in DC technologies can hinder widespread adoption, as it requires specialized knowledge for maintenance, installation, and operation.
+
+5. **Cost Efficiency Concerns**
+   - The upfront costs associated with transitioning to DC may outweigh the potential long-term benefits for some organizations, particularly those operating on tight budgets or with limited resources.

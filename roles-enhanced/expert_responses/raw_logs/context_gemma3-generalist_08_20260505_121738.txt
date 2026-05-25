@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New Barriers to DC Adoption (Shift2DC)
+
+Here are 5 new barriers to DC adoption, viewed through the lens of a Generalist Energy & Sustainability Analyst focused on data-led reporting and regulatory compliance:
+
+1. **Lack of Standardized Data Reporting:** Current sustainability reporting frameworks (e.g., CDP, GRI) are largely AC-centric. Adapting these for DC systems will require significant effort and potentially new metrics, hindering comparability and investor confidence.
+2. **Cybersecurity Vulnerabilities in DC Microgrids:** Increased complexity with distributed DC generation and control systems creates new attack vectors. Robust cybersecurity protocols and expertise are crucial but currently underdeveloped.
+3. **Limited Availability of Skilled Workforce:** Installing, maintaining, and optimizing DC systems requires specialized knowledge not widely available within existing engineering and operational teams.
+4. **Integration with Legacy AC Infrastructure:** Retrofitting DC into existing AC-dominated environments is complex and costly, requiring careful planning and potentially significant infrastructure modifications.
+5. **Regulatory Uncertainty Regarding DC Safety Standards:** Existing safety standards are heavily biased towards AC. Clear, harmonized DC safety regulations are needed to ensure safe deployment and reduce liability concerns.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Interoperability**
+Without universal standards for DC components and systems, integration across different vendors and applications will be difficult, hindering scalability and increasing costs.
+
+2. **Limited Availability of Skilled Personnel**
+A shortage of engineers and technicians with expertise in DC systems will constrain deployment and maintenance, especially as adoption expands.
+
+3. **Retrofit Costs & Disruption**
+Replacing existing AC infrastructure with DC presents significant retrofit costs and operational disruptions for existing facilities, creating a reluctance to adopt.
+
+4. **Insurance & Safety Concerns**
+The relative novelty of widespread DC systems raises concerns among insurers and safety regulators, potentially leading to higher premiums and stricter requirements.
+
+5. **Public Perception of Safety & Reliability**
+Negative public perception regarding the safety and reliability of DC power, fueled by unfamiliarity, could slow adoption and require extensive public awareness campaigns.

@@ -1,0 +1,12 @@
+=== Attempt 1 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Cost Competitiveness (Title: DC Components)
+- Barrier: High cost of hardware components, such as cables and converters, compared to traditional AC systems, limiting widespread adoption in low voltage applications.
+2. Technical Complexity (Title: Design & Installation)
+- Barrier: The complex design and installation process of DC systems require specialized skills and may deter installers and end users from adopting these technologies.
+3. Regulatory Uncertainty (Title: Compliance Standards)
+- Barrier: Lack of clear regulatory standards and guidelines for DC adoption, potentially leading to safety concerns and hindering widespread adoption in various industries.
+4. Public Perception & Awareness (Title: Education & Trust)
+- Barrier: Limited understanding and awareness of DC technology's benefits among the general public and professionals, resulting in resistance to adopting these systems.
+5. Infrastructure Challenges (Title: Integration with Existing Systems)
+- Barrier: The need for integrating DC systems with existing AC infrastructure can be complex and expensive, making it challenging for industries to migrate entirely to DC technologies.
+

@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## Unforeseen DC Adoption Barriers
+
+Here are five new barriers to DC adoption, considering my Senior HVDC and Electrical Systems Engineer role and the Shift2DC project context:
+
+1.  **Retrofit Integration Costs:** Replacing existing AC infrastructure with DC in brownfield sites (factories, ports) will be significantly more expensive than anticipated, particularly due to required system redesigns and potential downtime.
+2.  **Harmonic Mitigation in DC Systems:** While DC avoids AC harmonics, DC systems introduce their own unique harmonic challenges related to converter operation and power quality that require specialized mitigation strategies and equipment.
+3.  **Lack of Standardized DC Protection Schemes:** Existing AC protection schemes are inadequate for DC systems. Developing and validating robust, standardized DC protection schemes, especially for HVDC applications, will be a lengthy and complex process.
+4.  **Cybersecurity Vulnerabilities in DC Microgrids:** Increased reliance on power electronics and distributed control systems in DC microgrids introduces new cybersecurity attack vectors requiring proactive security measures and specialized expertise.
+5.  **Limited Availability of Skilled Personnel:** A shortage of engineers and technicians experienced in the design, installation, and maintenance of DC power systems will impede project execution and long-term operational readiness.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized DC Safety Practices**
+Current safety standards are heavily biased towards AC systems. A comprehensive and widely accepted set of DC-specific safety protocols is needed to address unique hazards and ensure safe working practices.
+
+2. **Limited Availability of Trained Personnel**
+There's a significant shortage of engineers, technicians, and installers with expertise in DC power systems, creating a bottleneck for project implementation and maintenance.
+
+3. **DC Component Cost & Scalability**
+While DC components are improving, widespread adoption requires further cost reductions and demonstrated scalability to meet the demands of large-scale deployments.
+
+4. **Interoperability Concerns with Existing AC Infrastructure**
+Seamless integration of DC systems with existing AC infrastructure presents technical challenges and necessitates robust interface solutions to avoid compatibility issues.
+
+5. **Cybersecurity Vulnerabilities in DC Microgrids**
+The increasing complexity of DC microgrids introduces new cybersecurity risks requiring specialized security measures and protocols to protect against malicious attacks.

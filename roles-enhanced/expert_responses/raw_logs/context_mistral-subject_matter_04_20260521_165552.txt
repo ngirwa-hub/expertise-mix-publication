@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Insufficient Standardization of DC Components**
+Explanation: The lack of uniform standards for DC components, such as cables, connectors, and converters, can create interoperability issues, making it difficult to integrate various systems in real-world applications.
+
+**Title 2: Inadequate Cybersecurity Measures**
+Explanation: The increasing reliance on digital control systems for DC networks presents new cybersecurity risks. Insufficient measures to protect these systems from potential threats could lead to system failures, data breaches, and other security concerns.
+
+**Title 3: Regulatory Hurdles and Compliance Challenges**
+Explanation: Navigating regulatory frameworks for DC technologies can be complex and time-consuming, with different jurisdictions having varying requirements and standards. This could hamper the widespread adoption of DC systems.
+
+**Title 4: Limited Skillsets in DC Expertise**
+Explanation: The relatively new nature of DC technology means that there may be a shortage of skilled professionals capable of designing, installing, and maintaining DC infrastructure. This knowledge gap could slow down the adoption process.
+
+**Title 5: Lack of Financial Incentives for DC Investments**
+Explanation: Without sufficient financial incentives or subsidies, businesses may be reluctant to invest in DC technologies due to their perceived high upfront costs compared to traditional AC systems. This could hinder the widespread adoption of DC solutions.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Lack of Standardized DC Components**
+   The absence of a universally accepted standard for low and medium voltage DC components could lead to interoperability issues, making it difficult to ensure seamless integration of various systems.
+
+2. **Inadequate Training and Skills**
+   The widespread adoption of DC technologies requires a skilled workforce capable of designing, installing, and maintaining these systems. A shortage of trained professionals may slow down the transition towards DC.
+
+3. **Regulatory Hurdles**
+   Existing electrical regulations and codes are primarily designed for AC systems. Adapting them to accommodate DC technologies might require time-consuming changes in local, national, or international regulations.
+
+4. **High Initial Investment Costs**
+   The initial cost of investing in DC infrastructure can be significantly higher than that of traditional AC systems due to the need for specialized components and equipment. This high upfront investment may deter potential adopters.
+
+5. **Limited Availability of DC Power Sources**
+   While renewable energy sources like solar and wind are becoming more prevalent, they still primarily generate AC power. The development of cost-effective DC power sources or efficient AC to DC converters is necessary for wider DC adoption.

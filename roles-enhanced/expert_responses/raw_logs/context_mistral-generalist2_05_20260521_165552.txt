@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Inadequate Standardization of DC Components**
+Explanation: Lack of consistent standards for DC components, such as converters, cables, and controllers, can lead to interoperability issues and increased costs in installation and maintenance.
+
+**Title 2: Insufficient Training and Skills Development**
+Explanation: The renewable energy workforce may not be adequately prepared to install, operate, and maintain DC systems due to a lack of training programs focused on direct current technologies.
+
+**Title 3: Regulatory Hurdles for DC Grid Integration**
+Explanation: Existing regulations and grid codes may not adequately address the integration of DC grids into the overall power system, creating barriers to widespread adoption.
+
+**Title 4: High Initial Investment Costs**
+Explanation: The upfront costs associated with implementing DC technologies can be prohibitive, especially for smaller-scale projects and communities that may not have access to significant funding sources.
+
+**Title 5: Public Perception and Awareness of DC Technologies**
+Explanation: Misconceptions or lack of understanding about the benefits and safety of direct current systems among the general public can hinder adoption, as well as create challenges in gaining necessary support for policy changes and infrastructure investments.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Barriers for DC Grid Integration**
+   The lack of clear and consistent regulations for integrating DC grids into existing AC-based power systems could pose a significant challenge, as it might lead to legal disputes, delays in implementation, and increased costs.
+
+2. **Standardization Issues for DC Hardware Components**
+   Without standardized specifications for DC hardware components such as cables, converters, and inverters, interoperability issues may arise, making it difficult to create seamless DC networks across different systems and manufacturers.
+
+3. **Investment Uncertainty due to High Initial Costs**
+   The high initial costs associated with transitioning to a DC-based infrastructure might deter potential investors, as they require significant upfront capital investment and may not offer immediate returns, leading to longer payback periods.
+
+4. **Public Perception and Adoption Challenges**
+   Public awareness and acceptance of DC technologies are essential for their widespread adoption. Misconceptions or concerns about safety, reliability, and the impact on existing appliances could hinder the rapid adoption of DC systems, necessitating targeted education and outreach efforts.
+
+5. **Training and Skills Gap for Maintenance Personnel**
+   The transition to DC-based infrastructure may require a workforce with specialized skills in DC technology maintenance and troubleshooting. A gap in this area could lead to reduced efficiency, increased downtime, and potential safety risks if the existing workforce is not adequately trained or certified in DC technologies.

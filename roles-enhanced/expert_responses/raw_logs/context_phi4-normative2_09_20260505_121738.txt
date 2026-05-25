@@ -1,0 +1,15 @@
+=== Attempt 1 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Infrastructure Transition Costs**  
+   The substantial financial investment required to replace existing AC infrastructure with DC systems can be a significant barrier. This includes costs associated with new equipment, rewiring, and the need for specialized labor to implement these changes.
+
+2. **Public Perception and Awareness**  
+   A lack of understanding or awareness among the general public about the benefits and safety of DC technologies can hinder adoption. Misconceptions may lead to resistance from communities where new systems are being implemented.
+
+3. **Interoperability Challenges**  
+   Ensuring compatibility between existing AC systems and new DC components poses a technical barrier. This involves developing reliable conversion mechanisms and ensuring that DC systems can integrate smoothly with legacy infrastructure without causing disruptions.
+
+4. **Regulatory Uncertainty**  
+   The absence of clear, consistent regulatory frameworks specifically tailored to DC technologies can impede adoption. Unclear guidelines may lead to hesitation among stakeholders who are uncertain about compliance requirements or future policy changes.
+
+5. **Skilled Workforce Shortage**  
+   A lack of trained professionals with expertise in DC systems can slow down deployment and maintenance efforts. This shortage can result in delays, increased costs, and potential safety risks if projects are staffed by inadequately prepared teams.

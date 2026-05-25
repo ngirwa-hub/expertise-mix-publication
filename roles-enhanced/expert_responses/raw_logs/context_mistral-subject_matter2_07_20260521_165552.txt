@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers**
+Explanation: The lack of harmonized international standards for low- and medium-voltage DC systems can create regulatory hurdles, hindering the widespread adoption of these technologies across borders.
+
+Title 2: **Compatibility Issues**
+Explanation: Existing AC infrastructure may not be easily compatible with DC systems, requiring significant upgrades or modifications to enable seamless integration and operation.
+
+Title 3: **Cost-Prohibitive Converter Technology**
+Explanation: High costs associated with the development and deployment of efficient converter technology for low- and medium-voltage DC systems could make them financially unattractive compared to AC solutions.
+
+Title 4: **Limited Expertise in DC Design and Maintenance**
+Explanation: A lack of specialized knowledge and experience in designing, maintaining, and troubleshooting DC power systems may deter potential adopters due to perceived complexity or uncertainty in system reliability.
+
+Title 5: **Public Perception and Acceptance**
+Explanation: Misconceptions or fear about the safety and efficiency of DC technologies could lead to public resistance, potentially slowing down the adoption rate and impeding widespread implementation.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Standardization Challenges**
+   The lack of standardized protocols and interfaces between various DC systems can hinder widespread adoption, leading to incompatibility issues and increased complexity in system integration.
+
+2. **Regulatory Barriers**
+   Existing electrical regulations are primarily designed for AC systems. Updating and harmonizing these regulations to accommodate DC technologies is necessary to ensure safety and compliance in DC applications.
+
+3. **Investment Risks**
+   The high initial cost of DC infrastructure compared to AC systems may deter potential investors, particularly for smaller scale projects where the long-term benefits may not outweigh the immediate costs.
+
+4. **Training and Expertise Gap**
+   A shortage of skilled professionals with expertise in DC technologies can lead to difficulties in designing, implementing, maintaining, and troubleshooting DC systems, potentially slowing down widespread adoption.
+
+5. **Public Perception and Acceptance**
+   Overcoming public skepticism and apprehension towards new technology like DC systems is crucial for widespread adoption. Addressing concerns related to safety, reliability, and the potential impact on existing AC infrastructure can help improve public acceptance.

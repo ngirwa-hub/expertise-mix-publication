@@ -1,0 +1,20 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Insufficient awareness among industry stakeholders:** Lack of knowledge about the potential benefits and applications of DC technologies among engineers, architects, and other decision-makers in relevant industries. This hinders the adoption of DC solutions as they may not be considered as an alternative.
+2. **High initial investment costs:** DC systems often require significant capital expenditures for infrastructure, hardware, and software compared to traditional AC systems. This could deter potential adopters due to concerns about ROI and the financial commitment required upfront.
+3. **Complexity of integrating DC solutions with existing infrastructure:** The integration of DC technologies into existing power grids or building management systems can be challenging, requiring specialized knowledge and expertise. This complexity may discourage adoption unless a clear value proposition is demonstrated.
+4. **Regulatory and legal uncertainties:** Changes in regulatory frameworks, permitting processes, and safety standards for DC technologies may create uncertainty for potential users or investors. Ensuring that DC solutions comply with all relevant regulations and are accepted by authorities could be a barrier to adoption.
+5. **Limited availability of skilled labor:** The transition to DC systems requires specialized technical expertise, particularly in designing, installing, and maintaining DC infrastructure. A shortage of qualified professionals with the necessary skills and experience may limit the adoption of DC technologies unless training programs are developed to address this gap.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Title: Lack of standardized safety regulations
+Explanation: A major barrier to DC adoption is the absence of standardized safety regulations across jurisdictions, which may result in varying safety standards and compliance requirements for DC systems. This can create confusion and uncertainty for industry stakeholders seeking to implement DC technologies on a large scale.
+2. Title: High upfront costs and investment risks
+Explanation: Implementing DC technology often requires significant initial investments in hardware, software, and infrastructure, which may deter smaller businesses or organizations with limited budgets from adopting these systems. This barrier may also lead to hesitance among potential investors due to the perceived risk of a new and unproven technology.
+3. Title: Insufficient training and workforce readiness
+Explanation: Without proper training, workers may struggle to operate DC-based equipment or maintain the system's performance efficiently. This barrier can be addressed by developing comprehensive training programs tailored to different sectors and job roles that require DC technology expertise.
+4. Title: Resistance to change among industry stakeholders
+Explanation: DC adoption may face resistance from established players in the energy or industrial sectors, who may perceive these technologies as disruptive or a threat to their existing business models. Overcoming this barrier requires effective communication and education campaigns to demonstrate the benefits of DC technology and its potential to coexist with traditional systems.
+5. Title: Difficulty in scaling up DC infrastructure
+Explanation: As DC systems are often smaller in scale compared to traditional electrical systems, there may be challenges in integrating them into existing energy grids or infrastructures at a larger level. This barrier can be addressed through collaborative efforts between industry stakeholders and government bodies to develop standardized frameworks for scaling up DC infrastructure while ensuring compatibility with existing power supply systems.
+

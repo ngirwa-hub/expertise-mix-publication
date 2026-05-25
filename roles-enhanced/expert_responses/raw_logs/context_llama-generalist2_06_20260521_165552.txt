@@ -1,0 +1,24 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Technological Complexity**: The complexity of integrating DC technologies into existing infrastructures, particularly for non-specialists, could be a significant barrier to adoption. As the technology requires specialized knowledge and expertise, there may be hesitance from organizations to invest in new systems unless they have confidence in their implementation and management.
+2. **Infrastructure Investment**: Upgrading existing infrastructures to support DC systems can be costly, presenting a significant financial challenge for many potential adopters. The initial investments required to adopt DC technologies may deter organizations from making the switch, especially if there is uncertainty about the long-term benefits and returns on investment.
+3. **Regulatory Uncertainty**: Regulations surrounding DC systems might not yet be comprehensive or consistent across different countries and regions. This lack of clear guidelines and regulations could create uncertainty for potential adopters, reluctant to invest in a technology that may not meet legal requirements or face penalties for non-compliance.
+4. **Perceived Inefficiency**: A common belief among potential adopters is that DC systems may offer limited benefits compared to traditional AC systems, leading to skepticism about the efficiency and effectiveness of DC technologies. This perception might discourage organizations from adopting new systems unless proven otherwise through compelling case studies or reliable data.
+5. **Lack of Standardization**: The absence of universal standards for DC systems could hinder adoption, as it creates compatibility issues and increases the complexity of integrating new technologies into existing infrastructures. A lack of standardization might also limit the potential for economies of scale and shared resources among organizations adopting DC systems.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Insufficient awareness and understanding among industry professionals and decision-makers about the benefits of DC technologies
+Explanation: Lack of knowledge on how DC systems can improve efficiency, reduce maintenance costs, and enhance grid stability could hinder adoption in certain sectors.
+
+2. High initial investment costs for implementing DC infrastructure, particularly in smaller or cash-strapped organizations
+Explanation: The upfront expenses associated with purchasing new hardware components, upgrading existing systems, and training staff may be prohibitive for some businesses.
+
+3. Regulatory challenges: DC technologies might not meet certain safety, quality, or performance standards set by local or national authorities
+Explanation: Some countries have specific regulations governing the use of DC infrastructure, and businesses need to navigate these requirements to ensure compliance while adopting new systems.
+
+4. Lack of skilled workforce capable of designing, installing, and maintaining DC systems
+Explanation: The scarcity of professionals with expertise in DC technologies might slow down the adoption process, as businesses would need to invest time and resources in training their staff or hiring new talent.
+
+5. Resistance from traditional energy suppliers and industry stakeholders due to concerns over market disruption and potential loss of revenue streams
+Explanation: Power companies and other industry players might be hesitant to adopt DC technologies, fearing that they could lose their customer base or revenue share if they transition too quickly.
+

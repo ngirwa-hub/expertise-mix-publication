@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Lack of Standardized Communication Protocols**
+Explanation: The absence of standardized communication protocols between various DC components can lead to interoperability issues, making it difficult to integrate different devices seamlessly. This lack of compatibility may hinder widespread adoption and increase the complexity of DC systems.
+
+Title 2: **Cost-Prohibitive Infrastructure Upgrades**
+Explanation: Transitioning from AC to DC infrastructure requires significant investment in new equipment, training, and upgrades to existing facilities. The high initial cost may deter potential adopters due to concerns about return on investment.
+
+Title 3: **Regulatory Hurdles for DC Grid Integration**
+Explanation: Navigating and complying with the various regulatory frameworks applicable to DC grids can be complex and time-consuming. Regulatory uncertainties and potential barriers may slow down the adoption of DC technologies until clear guidelines are established.
+
+Title 4: **Limited Availability of Skilled Professionals**
+Explanation: As DC technology is still relatively new compared to AC, there is a shortage of skilled professionals with expertise in designing, installing, and maintaining DC systems. This talent gap can hinder widespread adoption due to the lack of expertise needed for successful implementation.
+
+Title 5: **Limited Understanding of DC Safety Standards**
+Explanation: Compared to AC systems, there is less established knowledge about the safety implications of direct current. Misunderstandings or misinformation about DC safety can create barriers to adoption, as potential users may perceive risks that have not been adequately addressed.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory and Standards Inconsistency**
+   The lack of globally standardized regulations for DC systems can create barriers to widespread adoption, as different countries may have differing safety, performance, and compatibility requirements.
+
+2. **Infrastructure Compatibility Issues**
+   Existing AC-based infrastructure might pose challenges when transitioning to DC, particularly in terms of retrofitting or replacing equipment, which could be costly and time-consuming.
+
+3. **Interoperability Concerns**
+   Ensuring seamless communication and data exchange between various DC components, devices, and systems from different manufacturers is essential but can be difficult due to potential incompatibilities.
+
+4. **Training and Skills Gap**
+   The shift towards DC might require new skills and expertise for maintenance and operations personnel, leading to a temporary skills gap that could slow down adoption until appropriate training programs are developed and implemented.
+
+5. **Financial Barriers and Investment Risks**
+   The upfront costs associated with transitioning to DC may deter some stakeholders due to the perceived high investment risks, especially for smaller organizations or those with limited resources. Additionally, the lack of proven ROI for DC investments can create hesitancy among potential adopters.

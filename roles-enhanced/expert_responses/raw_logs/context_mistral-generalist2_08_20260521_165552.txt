@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers - Lack of Standardized DC Regulations**
+Explanation: The absence of standardized regulations for DC systems across different regions may pose challenges in terms of compatibility, safety, and approval processes, hindering widespread adoption of DC technologies.
+
+Title 2: **Infrastructure Challenges - Limited Existing DC Infrastructure**
+Explanation: Existing AC infrastructure is widespread and well-established, making it difficult to transition to DC without substantial investment in upgrading or replacing existing infrastructure.
+
+Title 3: **Education & Training - Insufficient Skilled Workforce**
+Explanation: The lack of trained professionals familiar with DC systems could lead to difficulties in implementation, maintenance, and troubleshooting, potentially slowing down the adoption of DC technologies.
+
+Title 4: **Cost-Effectiveness - Higher Initial Investment for DC Infrastructure**
+Explanation: Although DC offers potential long-term cost savings through reduced energy losses and increased efficiency, the higher initial investment required for DC infrastructure may deter some stakeholders from adopting DC systems.
+
+Title 5: **Public Perception - Misconceptions about DC Safety**
+Explanation: Misconceptions regarding the safety of DC systems compared to AC systems could lead to public resistance and slow down the adoption of DC technologies, particularly in residential applications.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Regulatory Barriers to Grid Integration
+   The lack of standardized regulations and policies for DC grid integration could hinder the widespread adoption of direct current (DC) systems, especially across different countries and regions with varying electrical standards.
+
+2. Infrastructure Compatibility Issues
+   Existing infrastructure may not be fully compatible with DC technologies, requiring significant upgrades or replacements to accommodate the new systems. This could lead to high costs and potential disruptions during the transition process.
+
+3. High Initial Investment Costs
+   The initial investment costs associated with implementing DC solutions can be prohibitive for some industries, especially small-scale operations that may not have the necessary resources to make the switch.
+
+4. Technical Training and Skills Gap
+   A lack of technical expertise and training in DC technologies could create a skills gap, making it challenging for industry professionals to effectively implement and maintain DC systems. This could lead to operational inefficiencies and increased maintenance costs.
+
+5. Lack of Interoperability Standards
+   The absence of universally accepted interoperability standards for DC components could result in compatibility issues between different manufacturers' products, making it difficult to create seamless and efficient DC networks.

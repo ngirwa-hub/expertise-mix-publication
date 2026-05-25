@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Compatibility Challenges with Existing Infrastructure**
+Explanation: Legacy AC infrastructure is widespread, and integrating new DC systems may require significant modifications to ensure compatibility. This could lead to increased costs and potential disruptions during the transition phase.
+
+**Title 2: Skill Gap Among Workforce**
+Explanation: The shift towards DC technologies may require a workforce with specialized skills and knowledge that are not yet widely available. Training programs will be necessary to address this gap, which could delay the adoption of DC technologies in some regions.
+
+**Title 3: Regulatory Uncertainty and Lack of Standards**
+Explanation: The lack of clear regulations and standards for DC technologies can create uncertainty for investors and project developers. This uncertainty may discourage investment in DC projects until more comprehensive guidelines are established.
+
+**Title 4: Public Perception and Acceptance**
+Explanation: The general public may have concerns about the safety and reliability of DC technologies, especially if they are not familiar with these systems. Overcoming these perceptions will be essential for widespread adoption, requiring education and outreach efforts.
+
+**Title 5: Integration with Renewable Energy Sources**
+Explanation: While DC technologies can improve the efficiency of renewable energy systems, integrating them may still present challenges due to the intermittent nature of renewable energy sources. Storage solutions and smart grid management will be crucial for addressing these integration issues.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Incompatibility with Existing Grid Infrastructure
+   - Challenges in integrating DC systems with existing AC infrastructure due to lack of standard conversion equipment and compatibility issues.
+
+2. Regulatory Hurdles for DC Standards Adoption
+   - Delays in updating regulatory frameworks to accommodate the widespread use of DC technologies, leading to legal uncertainties and potential barriers to adoption.
+
+3. Training and Skills Gap for DC Technology Maintenance
+   - Lack of skilled personnel with expertise in DC technology maintenance and operation, potentially slowing down the adoption rate due to insufficient human resources.
+
+4. Financial Barriers for Initial Investment
+   - High initial costs associated with implementing DC systems, such as purchasing new equipment and infrastructure, which may deter potential adopters due to perceived financial risk.
+
+5. Public Perception and Awareness of DC Technology
+   - Limited public awareness and understanding of the benefits and advantages of DC technologies, leading to skepticism and reluctance towards adoption, particularly in residential settings.

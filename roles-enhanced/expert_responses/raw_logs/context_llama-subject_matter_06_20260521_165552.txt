@@ -1,0 +1,21 @@
+=== Attempt 1 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Cost Efficiency**
+   - Title: High Initial Investment
+   - Brief Explanation: DC systems may require more expensive hardware components compared to traditional AC systems, resulting in a higher initial investment for adoption.
+   
+2. **Regulatory Compliance**
+   - Title: Diverse Regulations Across Jurisdictions
+   - Brief Explanation: DC systems may have different regulations and standards depending on the jurisdiction, causing confusion or added complexity in meeting compliance requirements for businesses adopting DC technologies.
+   
+3. **Technical Complexity**
+   - Title: Requires Specialized Technical Expertise
+   - Brief Explanation: The adoption of DC systems may require specialized technical knowledge and expertise, which could be a barrier for businesses without dedicated in-house resources or external support.
+   
+4. **Limited Availability of Hardware Components**
+   - Title: Limited Supply and Manufacturing Capacity
+   - Brief Explanation: DC hardware components may have limited availability due to lower market demand compared to AC components, making it challenging for businesses to find suitable components for their DC systems.
+   
+5. **Public Perception**
+   - Title: Concerns Over Safety and Reliability
+   - Brief Explanation: Adopting new DC technologies could raise concerns among the public regarding safety and reliability, which might discourage businesses from transitioning to DC systems.
+

@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New DC Adoption Barriers - Generalist Energy & Sustainability Analyst Perspective
+
+Here are five new barriers to DC adoption, considering my role and expertise:
+
+1. **Lack of Standardized Component Lifecycle Management:** DC systems introduce new hardware (converters, specialized cables). A lack of standardized lifecycle management protocols (maintenance, end-of-life recycling) creates operational and sustainability risks.
+2. **Cybersecurity Vulnerabilities in DC Microgrids:** Integrating DC microgrids expands the attack surface for cyber threats. Current cybersecurity frameworks may not adequately address the unique vulnerabilities of DC systems.
+3. **Integration with Legacy AC Infrastructure Costs:** Retrofitting existing AC infrastructure with DC solutions, particularly in industry and ports, involves significant upfront costs and disruption, potentially hindering ROI.
+4. **Limited Availability of Skilled Workforce:**  A shortage of engineers and technicians with expertise in DC system design, installation, and maintenance will constrain deployment speed and quality.
+5. **Fragmented Regulatory Landscape Beyond Technical Standards:** While technical standards are emerging, a lack of clarity around liability, permitting, and grid connection for DC systems will create uncertainty and delay projects.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Interoperability**
+Without universal standards for DC components and communication protocols, integrating solutions from different vendors will be challenging, hindering widespread adoption.
+
+2. **Limited Skilled Workforce**
+The current workforce lacks sufficient expertise in DC systems design, installation, and maintenance, creating a bottleneck for project implementation and ongoing support.
+
+3. **Retrofit Costs & Complexity**
+Adapting existing AC infrastructure to DC presents significant upfront costs and technical complexity, particularly for older buildings and industrial facilities.
+
+4. **Safety Perception & Training**
+Public and worker perception of DC safety may be negative without adequate education and training programs, potentially slowing adoption.
+
+5. **Supply Chain Vulnerabilities**
+Reliance on specific geographic regions for critical DC components could create supply chain vulnerabilities and price volatility.

@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Infrastructure Compatibility Barrier**
+Explanation: Existing AC infrastructure is widespread, making it challenging to replace with DC systems due to incompatible hardware and wiring. The cost of upgrading or replacing the infrastructure could be prohibitive for some projects.
+
+**Title 2: Regulatory Uncertainty Barrier**
+Explanation: Lack of clear and consistent regulations for DC technologies can create uncertainty, making it difficult for stakeholders to invest in and adopt these solutions. This barrier could be addressed by developing comprehensive guidelines for the widespread application of low and medium voltage DC systems.
+
+**Title 3: Skills Gap Barrier**
+Explanation: There may be a lack of trained personnel familiar with DC technologies, which could hinder their adoption. Investments in training and education programs are needed to address this barrier and ensure a skilled workforce capable of designing, implementing, and maintaining DC systems.
+
+**Title 4: Standards Convergence Barrier**
+Explanation: The absence of global standards for DC technologies can lead to compatibility issues among different manufacturers and countries. Developing and adopting international standards will help promote the interoperability of DC solutions and facilitate their widespread adoption.
+
+**Title 5: Public Awareness and Acceptance Barrier**
+Explanation: The general public may be unfamiliar with the benefits and safety aspects of DC technologies, leading to hesitancy or resistance to their adoption. Engaging with communities and raising awareness about the advantages of DC systems can help address this barrier and foster support for their implementation.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Incompatibility with Existing Grid Infrastructure
+   - The current AC grid infrastructure may not be easily adaptable for DC, creating a significant barrier in terms of cost and time for upgrading the entire system to accommodate DC adoption.
+
+2. Standardization Issues
+   - Lack of standardization in DC components such as cables, converters, and connectors could lead to compatibility issues and increased costs due to the need for custom solutions.
+
+3. Training and Skills Gap
+   - The shift to DC technology may require specialized training for maintenance personnel, operators, and engineers, potentially creating a skills gap that could slow down widespread adoption.
+
+4. Regulatory Hurdles
+   - Existing regulations may not fully accommodate DC systems, requiring lengthy processes for amendments or new legislation, thus delaying the implementation of DC technology.
+
+5. Economic Uncertainty
+   - Initial investment costs for DC infrastructure are higher compared to AC, leading to economic uncertainty and potential reluctance from stakeholders to invest in DC adoption until cost-effectiveness is proven over time.

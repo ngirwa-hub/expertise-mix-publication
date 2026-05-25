@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## DC Adoption Barriers: Beyond the Obvious
+
+As a Senior Renewable Energy Program & Project Manager focused on delivery and portfolio control, here are five new barriers to DC adoption I foresee, beyond those already identified:
+
+1. **Interoperability Standards Gap:** Lack of universally accepted interoperability standards across DC hardware and software components will hinder integration and create vendor lock-in, increasing project risk and complexity.
+2. **Legacy Infrastructure Retrofit Costs:** The significant expense and disruption associated with retrofitting existing AC infrastructure to DC, particularly in industrial settings, will be a major deterrent for many adopters.
+3. **Workforce Skillset Deficiencies:** A shortage of qualified personnel with expertise in DC system design, installation, and maintenance will slow deployment and potentially compromise system reliability.
+4. **Insurance & Liability Concerns:** Insurance providers may initially be hesitant to cover DC systems due to a lack of established safety records and industry best practices, increasing project costs and delaying approvals.
+5. **Public Perception & Safety Misconceptions:** Negative public perception stemming from misconceptions about DC safety (e.g., higher voltage concerns) could create resistance and delay project acceptance, particularly in building and port applications.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Interoperability**
+Current DC component designs often lack standardized communication protocols, hindering seamless integration between different manufacturers and systems.
+
+2. **Limited Availability of Skilled Workforce**
+A shortage of engineers and technicians with expertise in DC systems design, installation, and maintenance poses a significant obstacle to widespread adoption.
+
+3. **Supply Chain Vulnerabilities**
+Dependence on specific suppliers for critical DC components creates vulnerabilities in the supply chain, potentially delaying projects and increasing costs.
+
+4. **Retrofit Costs & Disruptions**
+Integrating DC systems into existing AC infrastructure (retrofits) can be prohibitively expensive and disruptive to ongoing operations.
+
+5. **Public Perception & Safety Concerns**
+Lack of public familiarity with DC technology and concerns regarding electrical safety could impede acceptance and adoption.

@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Lack of Standardized DC Equipment**
+Explanation: The absence of universally accepted standards for DC equipment could lead to interoperability issues, increasing costs for manufacturers and hindering widespread adoption.
+
+**Title 2: Insufficient Infrastructure for DC Grid Integration**
+Explanation: Existing power grids are primarily AC-based, requiring significant infrastructure upgrades to support DC distribution, which may present a barrier to adoption due to high investment costs.
+
+**Title 3: Regulatory Barriers for DC Grid Connections**
+Explanation: Current regulations and grid codes may not be conducive to the integration of DC grids, requiring revisions or new policies to accommodate the transition from AC to DC power distribution.
+
+**Title 4: High Initial Investment Costs for Converters**
+Explanation: The high cost of converters between DC and AC may deter potential adopters, particularly in industries with tight budgets or projects with limited funding.
+
+**Title 5: Limited Availability of Skilled Professionals**
+Explanation: As DC technology is still relatively new compared to AC, there may be a shortage of skilled professionals capable of designing, maintaining, and troubleshooting DC systems, potentially slowing down adoption rates.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Standardization Lags**
+   - Diverse DC technologies and applications may lack unified standards, leading to incompatibility issues among different components and systems. This could hinder widespread adoption and increase costs due to the need for custom solutions.
+
+2. **Regulatory Hurdles**
+   - Existing regulatory frameworks may not fully support or address DC technologies, creating obstacles for their implementation and operation. Updating or creating new regulations specific to DC systems will be crucial in overcoming this barrier.
+
+3. **Infrastructure Adaptation**
+   - Traditional AC-based infrastructure requires significant upgrades or replacement to accommodate DC distribution, posing challenges in terms of cost, time, and logistics. This is especially relevant for older buildings and infrastructures that have not been designed with DC capabilities in mind.
+
+4. **Public Perception and Awareness**
+   - Lack of understanding and acceptance among the general public regarding the benefits and safety of DC technologies could hinder their adoption. Educational initiatives targeting various stakeholders, such as consumers, businesses, and policymakers, will be essential in addressing this barrier.
+
+5. **Training and Skills Gap**
+   - The shift to DC technologies may require a new set of skills and competencies among maintenance personnel, engineers, and other professionals involved in their installation, operation, and maintenance. Investing in training programs and education initiatives will help bridge this gap and ensure the successful deployment of DC solutions.

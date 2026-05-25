@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Legacy Infrastructure Compatibility Barrier**
+Explanation: Existing AC infrastructure in buildings, industries, and ports may not be easily adaptable to DC systems, necessitating costly upgrades or replacements to ensure seamless integration.
+
+Title 2: **Regulatory Hurdles for Grid Integration**
+Explanation: Lack of standardized regulations governing the grid connection of DC networks could pose challenges in ensuring safety, reliability, and compatibility with existing AC grids, potentially slowing down DC adoption.
+
+Title 3: **Consumer Awareness and Education Barrier**
+Explanation: Limited understanding among end-users, such as businesses and households, about the benefits and applications of DC technologies may hinder widespread adoption, necessitating targeted education and awareness campaigns.
+
+Title 4: **Interoperability Challenges with Existing Devices**
+Explanation: Compatibility issues between DC systems and existing AC devices, including appliances, electronics, and machinery, could create barriers to adoption, requiring the development of new standards or solutions for interoperability.
+
+Title 5: **Cost-Prohibitive Hardware Solutions**
+Explanation: The cost of developing and implementing DC hardware components such as cables, converters, and inverters may be prohibitively high, potentially dissuading potential adopters due to the initial investment required.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Barrier: Inconsistent Policies and Standards**
+   The lack of uniformity in DC regulations across different regions and countries can hinder the widespread adoption of DC technologies, as manufacturers may need to comply with multiple sets of standards for their products to be marketable globally.
+
+2. **Infrastructure Barrier: Limited Existing DC Infrastructure**
+   Existing electrical infrastructure is predominantly AC-based. Transitioning to DC requires substantial investments in new infrastructure, including conversion equipment and DC-compatible hardware.
+
+3. **Standardization Barrier: Lack of Interoperability Standards**
+   The absence of agreed-upon interoperability standards for DC components could lead to incompatibility issues among different devices and systems, making it challenging to achieve seamless integration and efficient operation of DC networks.
+
+4. **Public Awareness Barrier: Low Understanding of DC Benefits**
+   Limited public awareness and understanding of the benefits and advantages of DC technologies may deter widespread adoption, as users may be hesitant to transition to new systems without being adequately informed about their potential benefits.
+
+5. **Financing Barrier: High Upfront Costs and Risk Aversion**
+   The high initial costs associated with implementing DC solutions, coupled with the perceived risk involved in adopting a relatively new technology, can discourage investors and stakeholders from committing to DC projects, hindering their widespread adoption.

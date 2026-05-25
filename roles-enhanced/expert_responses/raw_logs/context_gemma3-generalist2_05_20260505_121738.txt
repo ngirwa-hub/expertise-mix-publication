@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## Unforeseen DC Adoption Barriers
+
+Here are five new barriers to DC adoption, considering my Senior Renewable Energy Program & Project Manager role and focusing on delivery challenges:
+
+1. **Component Interoperability Standards Gap:** Lack of widely adopted, robust standards for DC component interoperability will lead to integration headaches and vendor lock-in, hindering scalability and increasing project risk.
+2. **Retrofit Costs & Complexity:** Integrating DC into existing infrastructure (buildings, ports) presents significantly higher retrofit costs and complexity compared to new builds, potentially outweighing long-term benefits.
+3. **Workforce Skillset Deficiencies:** A shortage of trained personnel (installers, maintenance technicians, system integrators) familiar with DC technologies will impede project execution and ongoing operational reliability.
+4. **Supply Chain Vulnerabilities:** Dependence on a limited number of suppliers for specialized DC hardware creates vulnerabilities in the supply chain, potentially delaying projects and increasing costs.
+5. **Insurance & Liability Concerns:** The novelty of widespread DC adoption creates uncertainty for insurers, potentially leading to higher premiums and difficulty securing necessary coverage for DC projects.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Safety Protocols**
+Current safety standards are heavily biased towards AC systems. Adapting or creating new, comprehensive safety protocols for DC installations will be a significant hurdle, particularly concerning arc flash and electrical shock hazards.
+
+2. **Retrofit Costs & Disruptions**
+Replacing existing AC infrastructure in existing buildings or industrial facilities will be prohibitively expensive and disruptive, hindering adoption beyond new construction.
+
+3. **Limited Component Availability & Supply Chain**
+While DC components exist, a robust, readily available supply chain at scale for all necessary components (cables, converters, protection devices) is currently lacking.
+
+4. **Interoperability Concerns Across Vendors**
+A lack of standardized communication protocols and interfaces between DC components from different vendors will limit system flexibility and increase integration complexity.
+
+5. **Workforce Skill Gap & Training Needs**
+The current electrical workforce lacks experience and training in DC systems. Significant investment in training and upskilling will be required to ensure safe and effective installation and maintenance.

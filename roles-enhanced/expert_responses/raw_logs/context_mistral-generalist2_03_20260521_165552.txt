@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers for Cross-Border DC Transmission**
+Explanation: The lack of harmonized regulations and standards for cross-border DC transmission could hinder the widespread adoption of DC technologies, particularly in international projects. This includes issues related to grid interconnection, safety, and compliance with multiple jurisdictions' rules and regulations.
+
+Title 2: **Infrastructure Investment Challenges**
+Explanation: High upfront costs associated with infrastructure development and replacement for DC systems may deter investments from both public and private sectors. This includes the cost of converters, cables, transformers, and other necessary components.
+
+Title 3: **Skills Gap in DC Expertise**
+Explanation: A shortage of professionals with expertise in DC technologies could lead to delays or inefficiencies in project implementation. This includes engineers, technicians, and maintenance personnel who are familiar with the specific needs and challenges of DC systems compared to AC systems.
+
+Title 4: **Compatibility Issues with Existing Infrastructure**
+Explanation: Integrating DC systems into existing AC-based infrastructure may present technical compatibility issues that need to be addressed. This includes ensuring seamless integration between DC and AC components, as well as managing the transition process without causing disruptions or safety concerns.
+
+Title 5: **Public Perception and Acceptance of DC Technologies**
+Explanation: Widespread adoption of DC technologies requires not only technical feasibility but also acceptance among end-users, including households, businesses, and even tourists. Negative perceptions or misconceptions about the safety, reliability, or efficiency of DC systems could slow down their adoption, especially in applications like residential power supply or electric vehicles charging stations.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Lack of Standardized DC Equipment
+   - The absence of uniform standards for DC equipment across different regions and manufacturers can lead to interoperability issues, making it difficult to scale up DC adoption.
+
+2. Insufficient Infrastructure for DC Distribution
+   - Existing power grids are primarily AC-based, necessitating significant investments in infrastructure to support DC distribution networks, including converters, transformers, and cabling.
+
+3. Regulatory Hurdles for DC Applications
+   - Diverse regulations governing electricity production, distribution, and consumption across countries may pose challenges in implementing and adopting DC technologies on a broader scale.
+
+4. High Initial Investment Costs
+   - The high initial costs associated with DC infrastructure, such as converters, cables, and DC-compatible equipment, may deter potential investors and slow down the adoption of DC technologies.
+
+5. Limited Availability of Skilled Personnel
+   - A shortage of skilled professionals familiar with DC systems and their maintenance could lead to operational challenges and hinder the widespread adoption of DC technologies.

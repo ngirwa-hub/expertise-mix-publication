@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Compliance Challenges**
+Explanation: The lack of standardized regulations for direct current (DC) systems across different regions and jurisdictions can create barriers to widespread adoption, as it may require costly adaptations to comply with multiple sets of rules.
+
+Title 2: **Investment Risk Perception**
+Explanation: Potential investors may perceive DC technology as riskier than traditional alternating current (AC) systems due to its lesser known status and potential technical uncertainties, making it harder to secure funding for large-scale projects.
+
+Title 3: **Skills Gap in DC Expertise**
+Explanation: A lack of trained professionals with expertise in DC technology can create a barrier to its adoption, as the necessary knowledge and know-how are not readily available within existing workforces, leading to potential implementation issues.
+
+Title 4: **Interoperability Issues**
+Explanation: Ensuring that different DC components and systems are compatible and interoperable can be a significant challenge, as there may be incompatibilities between various manufacturers' products or technologies. This could lead to increased costs and complexity during installation and maintenance.
+
+Title 5: **Public Awareness and Acceptance**
+Explanation: As DC technology is less common than AC, public awareness and understanding of its benefits and applications might be limited. Addressing misconceptions and fostering education about the advantages of DC adoption can help alleviate this barrier, ultimately driving wider acceptance among consumers and stakeholders.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Inconsistencies**
+   - Diverse and sometimes conflicting regulations across regions can hinder the adoption of DC systems, making it difficult to ensure compliance and standardization.
+
+2. **Infrastructure Compatibility Issues**
+   - Existing AC infrastructure in buildings, data centers, and ports may pose challenges in terms of upgrading or replacing components to support DC systems.
+
+3. **Skills Gap Among Workforce**
+   - Lack of trained personnel familiar with DC technologies can lead to installation errors, maintenance issues, and safety concerns.
+
+4. **Financial Barriers for Small-Scale Adoption**
+   - High initial costs associated with implementing DC systems may deter small businesses or households from adopting the technology due to limited budgets.
+
+5. **Interoperability Challenges**
+   - Ensuring seamless communication and collaboration between various DC components, as well as with AC devices, is crucial but can be difficult to achieve without standardized interfaces and protocols.

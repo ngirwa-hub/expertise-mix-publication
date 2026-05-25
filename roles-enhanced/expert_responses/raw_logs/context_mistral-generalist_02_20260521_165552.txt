@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Uncertainty - Lack of Standardized Policies for DC Infrastructure**
+Explanation: The absence of clear, standardized policies regarding DC infrastructure could create uncertainty for investors and developers, hindering widespread adoption of direct current technologies.
+
+Title 2: **Compatibility Challenges - Interoperability Issues with Existing AC Systems**
+Explanation: Direct current systems may face compatibility issues when integrating with existing alternating current infrastructures, potentially leading to costly upgrades or modifications.
+
+Title 3: **Skills Gap - Lack of Expertise in DC Technology among Workforce**
+Explanation: A lack of expertise and training in direct current technologies within the workforce could hinder efficient implementation and maintenance of DC systems, resulting in higher costs and potential reliability issues.
+
+Title 4: **Investment Risk - Perceived Higher Initial Costs Compared to AC Systems**
+Explanation: Direct current systems may be perceived as more expensive to implement than alternating current systems, leading investors to favor traditional solutions, thereby delaying the widespread adoption of DC technologies.
+
+Title 5: **Public Awareness and Acceptance - Limited Understanding of Benefits and Impact of DC Systems**
+Explanation: Without adequate public awareness and understanding of direct current systems' benefits and impacts, there may be resistance to their implementation, potentially slowing down the adoption process.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Hurdles for DC Infrastructure Investment**
+   The lack of specific regulations supporting direct current (DC) infrastructure investment may discourage private sector participation in the adoption of DC technologies, particularly in areas with existing AC-based grid infrastructure.
+
+2. **Standardization Challenges Across Borders**
+   A consistent set of international standards for DC equipment and systems is crucial to ensure compatibility and interoperability among countries adopting these technologies. The absence of such standards could lead to fragmentation, hindering widespread DC adoption.
+
+3. **Skills Gap in DC Technology Expertise**
+   The limited availability of professionals with expertise in DC technology may pose a barrier to its implementation, particularly in industries and regions with minimal experience in this area. Upskilling the workforce is essential for successful DC adoption.
+
+4. **Integration with Existing AC Grid Infrastructure**
+   Seamless integration between DC and existing alternating current (AC) grid infrastructure is a critical factor that must be considered during the planning and deployment stages of DC projects. Challenges in achieving this integration may create obstacles to DC adoption.
+
+5. **Financing Mechanisms for DC Transition**
+   Access to suitable financing mechanisms, such as grants, loans, or tax incentives, can help bridge the investment gap associated with transitioning from AC to DC technologies. The absence of these mechanisms could hinder the widespread adoption of DC solutions.

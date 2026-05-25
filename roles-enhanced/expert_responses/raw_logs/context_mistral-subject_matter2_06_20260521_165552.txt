@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers for Cross-Border DC Transmission**
+Explanation: The lack of harmonized regulations for cross-border high voltage direct current (HVDC) transmission systems could pose a significant barrier to adoption, as it complicates the approval process and increases costs associated with meeting different regulatory requirements in each country.
+
+Title 2: **Lack of Standardization for DC Components**
+Explanation: The absence of industry-wide standards for DC components such as cables, converters, and switching equipment could lead to compatibility issues among different manufacturers, resulting in higher costs for system integration and potential reliability concerns.
+
+Title 3: **Limited Expertise and Skills in DC Technologies**
+Explanation: The relatively limited pool of experts and skilled professionals with experience in DC technologies may result in challenges during the design, implementation, and maintenance phases, leading to increased costs and potential system failures.
+
+Title 4: **High Initial Investment Costs**
+Explanation: The higher initial investment costs associated with HVDC systems compared to alternating current (AC) systems could deter potential adopters, particularly for small-scale projects or those with limited budgets, as they may struggle to justify the long-term benefits.
+
+Title 5: **Infrastructure Adaptation Challenges**
+Explanation: Existing AC infrastructure may require significant modifications or upgrades to accommodate DC systems, leading to additional costs and potential disruptions during the transition phase. This could discourage adoption among those unwilling or unable to bear these costs.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Compliance Barriers**
+   The lack of standardized regulations and guidelines for the implementation and operation of DC systems across different regions can pose a significant barrier to their widespread adoption.
+
+2. **Infrastructure Adaptation Challenges**
+   Existing AC infrastructure is vast, and adapting it to accommodate DC systems may require substantial investments in new equipment and infrastructure modifications, which could be a financial and logistical hurdle.
+
+3. **Technological Interoperability Issues**
+   Ensuring seamless integration and interoperability between various DC components, such as cables, converters, and control systems, is crucial for efficient operation. However, the lack of universal standards for these components can lead to compatibility issues.
+
+4. **Training and Skills Gap**
+   The shift towards DC technologies necessitates a change in skillset among engineers, technicians, and operators. The absence of adequate training programs and the slow pace of skill acquisition among the workforce could hinder the adoption of DC systems.
+
+5. **Public Perception and Acceptance Barriers**
+   Overcoming public skepticism and apprehension towards new technologies is essential for widespread acceptance and successful implementation. Misconceptions about DC safety, reliability, and maintenance could deter potential adopters and hinder the growth of the DC market.

@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers - Inconsistent Standards**
+Explanation: Different countries may have diverse regulatory standards for direct current (DC) systems, making it challenging to implement a unified solution across multiple regions. This inconsistency can lead to increased costs and delays in the adoption of DC technologies.
+
+Title 2: **Technical Interoperability Issues**
+Explanation: The lack of compatibility between various DC components, such as cables, converters, and hardware, can pose significant barriers to widespread DC adoption. Ensuring seamless integration among these elements is crucial for successful implementation.
+
+Title 3: **Infrastructure Adaptation Challenges**
+Explanation: Upgrading existing infrastructure to accommodate DC systems may require substantial investments and time, especially in areas with outdated electrical grids. This adaptation process can hinder the rapid adoption of direct current technology.
+
+Title 4: **Public Perception and Awareness**
+Explanation: Limited understanding and acceptance among the general public regarding the benefits and safety measures associated with DC systems can slow down their widespread adoption. Education and awareness campaigns are essential to overcoming this barrier.
+
+Title 5: **Cost-Effectiveness Concerns**
+Explanation: While direct current systems offer several advantages, such as energy efficiency and reduced losses, the initial costs of implementing these technologies might be higher compared to traditional alternatives. Cost-benefit analyses and subsidies could help address this barrier and encourage broader DC adoption.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Legacy Infrastructure Compatibility**
+   - Existing AC-based infrastructure and equipment may not be easily adaptable to DC systems, requiring significant investment in upgrades or replacements.
+
+2. **Regulatory Hurdles for Grid Integration**
+   - Regulations governing the integration of DC systems into the existing AC grid are not well-established, potentially leading to delays and uncertainties in project approvals.
+
+3. **Standardization Challenges**
+   - Lack of standardized protocols for DC equipment can lead to interoperability issues among different manufacturers, making it difficult to create a seamless DC ecosystem.
+
+4. **Public Perception and Awareness**
+   - Limited understanding and acceptance of DC technologies among the general public may pose barriers to widespread adoption, especially in areas with low technological literacy.
+
+5. **Training and Skills Gap**
+   - The shift towards DC technology necessitates a new set of skills for maintenance personnel and operators. A shortage of trained professionals could hinder the rapid adoption and efficient operation of DC systems.

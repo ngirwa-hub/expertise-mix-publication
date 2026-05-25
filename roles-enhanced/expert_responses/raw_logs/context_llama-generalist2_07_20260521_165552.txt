@@ -1,0 +1,20 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. Lack of standardization in hardware components (Title: Hardware Compatibility)
+2. Insufficient understanding of potential cost savings compared to traditional AC systems (Title: Cost Savings Perception)
+3. Safety concerns related to working with high voltage direct current systems (Title: Safety Concerns)
+4. Limited availability and expertise in skilled labor for DC installations (Title: Skilled Labor Availability)
+5. Complex regulatory environment for approving new DC technologies (Title: Regulatory Approval Challenges)
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Title: Legacy Infrastructure
+Explanation: The widespread adoption of DC technology requires upgrading existing infrastructures and replacing traditional electrical systems that are designed to work with alternating current (AC). This can be a significant challenge, as retrofitting existing facilities and replacing components can be both costly and time-consuming.
+2. Title: Regulatory Uncertainty
+Explanation: DC technologies may not comply with current regulatory frameworks, leading to ambiguity in the permissible usage of DC systems. Ensuring that new regulations are developed or existing ones are revised to accommodate DC technology is crucial for its widespread adoption.
+3. Title: Lack of Standardization
+Explanation: The lack of standardized hardware components, communication protocols, and installation practices makes it challenging for industries to adopt DC technology at scale. Adopting universal standards can help streamline the process and reduce the complexity associated with integrating DC systems.
+4. Title: Skilled Labor Availability
+Explanation: The transition to DC technologies requires skilled professionals who are knowledgeable in both electrical engineering and renewable energy. Finding qualified individuals and training them in DC technology may be a significant barrier to adoption, particularly in regions where specialized workforce is scarce.
+5. Title: Public Perception
+Explanation: The public's understanding and acceptance of DC technologies can influence their adoption. Many people may perceive DC systems as unfamiliar or unsafe due to lack of awareness and education on the benefits they provide. Increasing public outreach and educational campaigns can help address this barrier.
+

@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## DC Adoption Barriers - Expert Insight
+
+Here are 5 new barriers to DC adoption, considering my Senior HVDC and Electrical Systems Engineer role:
+
+1.  **Lack of Standardized Protection Schemes:** Current protection schemes are largely AC-centric. Developing and validating robust, DC-specific protection methodologies (e.g., for fault clearing, overvoltage protection) is crucial and currently underdeveloped.
+2.  **Interoperability Concerns with Legacy Equipment:** Integrating DC systems with existing AC infrastructure and legacy equipment presents significant challenges.  Retrofitting or replacing older assets is costly and complex.
+3.  **DC-Specific Cybersecurity Vulnerabilities:** DC systems introduce new attack vectors. Existing cybersecurity protocols may not adequately protect DC infrastructure, requiring specialized solutions.
+4.  **Limited Skilled Workforce:**  A lack of engineers and technicians with expertise in DC power systems will hinder deployment and maintenance.  Training and education programs need significant expansion.
+5.  **DC Component Reliability & Longevity Data:**  Limited long-term operational data exists for many DC components (cables, converters, etc.).  This uncertainty impacts asset life cycle costing and risk assessment.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Safety Regulations**
+Current safety regulations are heavily geared towards AC systems. A lack of clear, standardized DC safety protocols creates uncertainty and hinders adoption due to liability concerns and potential for improper handling.
+
+2. **Limited Availability of Skilled Technicians**
+The workforce lacks sufficient expertise in DC systems. Training and recruitment of skilled technicians capable of installing, maintaining, and troubleshooting DC infrastructure is a significant bottleneck.
+
+3. **Interoperability Challenges with Legacy Equipment**
+Integrating DC systems with existing AC infrastructure presents significant compatibility issues. Lack of standardized interfaces and protocols complicates integration and increases costs.
+
+4. **Component Cost at Scale**
+While some DC components are competitive, scaling production to meet widespread adoption will require significant investment. Currently, component costs at scale remain a barrier to economic viability.
+
+5. **Public Perception & Fear of the Unknown**
+General public unfamiliarity with DC power can lead to apprehension and resistance. Misconceptions about safety and reliability need to be addressed through education and transparency.

@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers for DC Grid Integration**
+Explanation: The lack of harmonized regulations and standards for low and medium voltage DC grids could hinder the widespread adoption of DC technologies, as different countries may have disparate rules regarding safety, interoperability, and compliance.
+
+Title 2: **Infrastructure Adaptation Challenges**
+Explanation: Existing AC-based infrastructure may require significant upgrades or replacements to accommodate DC systems, including converters, transformers, cables, and other components. This transition could be costly and time-consuming, potentially deterring some stakeholders from embracing DC technologies.
+
+Title 3: **Education and Training Gap**
+Explanation: As DC technologies gain traction, there may be a need for increased training and education among electrical engineers, technicians, and other professionals working in the field to ensure they are equipped with the necessary skills to design, maintain, and troubleshoot DC systems effectively.
+
+Title 4: **Technical Interoperability Issues**
+Explanation: Ensuring that various DC components, such as cables, converters, and energy storage systems, can seamlessly work together in a complex network could be challenging due to differences in manufacturing standards, communication protocols, and performance characteristics.
+
+Title 5: **Public Perception and Acceptance**
+Explanation: The general public may have concerns about the safety and reliability of DC technologies compared to AC systems. Addressing these misconceptions through education and outreach efforts will be crucial in fostering widespread acceptance and adoption of DC solutions.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Compliance Barriers**
+   The lack of standardized regulations for DC systems in various countries may pose challenges to their widespread adoption, as it could lead to inconsistencies and potential safety issues across different regions.
+
+2. **Interoperability Challenges**
+   Ensuring compatibility between various DC components from different manufacturers can be a significant hurdle, as it requires careful coordination and the development of industry-wide standards for interoperable solutions.
+
+3. **Infrastructure Adaptation Barriers**
+   Existing AC infrastructure may need substantial upgrades or modifications to accommodate DC systems, which could involve high costs and logistical complexities that might deter some stakeholders from making the transition.
+
+4. **Public Perception and Awareness**
+   The general public's understanding of DC technologies is relatively low compared to AC technologies. Overcoming this barrier requires effective education and awareness campaigns to build trust and acceptance among the end-users.
+
+5. **Financial and Economic Barriers**
+   Initial investment costs for implementing DC systems may be higher than those for AC systems due to the need for specialized equipment and infrastructure adaptations. Addressing these financial barriers will require innovative funding mechanisms and cost reduction strategies.

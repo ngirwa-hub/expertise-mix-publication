@@ -1,0 +1,20 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Cost Competitiveness**: Lack of cost competitiveness compared to traditional AC systems, making it difficult for DC solutions to be adopted on a large scale due to higher initial investment costs.
+2. **Infrastructure Challenges**: Inadequate infrastructure and limited availability of compatible hardware components in the market, leading to difficulties in implementing DC-based systems.
+3. **Regulatory Uncertainty**: Unclear or inconsistent regulatory frameworks for low and medium voltage DC systems, making it challenging for industry players to invest in these technologies with confidence.
+4. **Technical Complexity**: Higher technical complexity associated with designing, installing, and maintaining DC-based systems can deter potential adopters from embracing these solutions.
+5. **Public Perception**: Lack of awareness or understanding about the benefits and applications of DC technologies among end-users, leading to resistance or reluctance in adopting these solutions.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Title: Interoperability Challenges
+   Explanation: DC systems may face compatibility issues when integrating with existing AC infrastructures, requiring costly retrofits and posing challenges for seamless power conversion.
+2. Title: Public Perception Concerns
+   Explanation: End-users' acceptance of DC technology depends on safety, reliability, and awareness. Lack of understanding about the benefits and risks may hinder widespread adoption.
+3. Title: Standards & Regulations Gap
+   Explanation: Clear regulatory frameworks for DC systems are essential, but current regulations may not cover all aspects, leading to potential loopholes or inconsistencies in implementing DC technology.
+4. Title: Insufficient Skilled Labour
+   Explanation: Workforce with expertise in designing, installing, and maintaining DC systems is limited, posing a challenge for the widespread adoption of these technologies.
+5. Title: Financial Incentives & ROI Uncertainty
+   Explanation: The initial investment costs for DC systems may be higher than traditional AC solutions, creating financial barriers. Additionally, calculating accurate return on investment requires extensive research and analysis.
+

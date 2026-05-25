@@ -1,0 +1,30 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## Shift2DC: Unforeseen Adoption Barriers
+
+Here are five potential barriers to DC adoption, beyond those already identified, viewed through the lens of a Senior Permitting and Regulatory Advisor:
+
+1.  **Harmonized Frequency Standards:** The variability in grid frequency (50Hz vs. 60Hz) creates significant permitting complexities. Aligning DC conversion equipment and ensuring compatibility across different jurisdictions will require new, potentially lengthy, regulatory approvals.
+2.  **Liability & Insurance for Novel Systems:** Current insurance models and liability frameworks are built around AC systems. Integrating DC introduces unknowns, leading to higher insurance premiums and reluctance from investors and operators until precedents are established.
+3.  **Retrofit Permitting Challenges:** While new builds can incorporate DC, retrofitting existing infrastructure faces significant permitting hurdles. Modifications to building codes, safety standards, and grid connection agreements will be required on a case-by-case basis.
+4.  **Data Security & Cyber Resilience:** DC microgrids, particularly those connecting diverse assets like those envisioned in the port use case, create new attack vectors. Securing these systems will necessitate specialized cybersecurity certifications and ongoing regulatory oversight.
+5.  **Public Perception & Safety Misconceptions:** Despite user observation efforts, public anxieties about DC safety (even if unfounded) can trigger local opposition and delays in permitting, especially concerning power supply to public spaces.
+
+
+
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Harmonized Safety Standards Gap**
+Lack of globally harmonized safety standards specifically for low and medium voltage DC systems creates uncertainty and inhibits widespread adoption due to varying national regulations and potential liability concerns.
+
+2. **Component Cost & Availability**
+While DC components are evolving, limited economies of scale currently inflate costs and restrict availability compared to established AC systems, impacting project ROI.
+
+3. **Retrofit Complexity & Cost**
+Integrating DC infrastructure into existing AC-dominant environments is complex and expensive, particularly for older buildings and industrial facilities.
+
+4. **Lack of Trained Workforce**
+A shortage of skilled technicians and engineers familiar with DC system design, installation, and maintenance will slow deployment and increase operational risks.
+
+5. **Interoperability Concerns**
+Ensuring seamless interoperability between different DC components and systems from various vendors remains a challenge, potentially hindering scalability and flexibility.

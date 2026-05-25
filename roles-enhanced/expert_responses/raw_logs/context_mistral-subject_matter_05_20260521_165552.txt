@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Regulatory Barriers and Compliance Issues**
+- Explanation: Existing regulations may not be fully adapted to accommodate direct current (DC) systems, leading to potential compliance issues and delays in project implementation. This could include outdated safety standards, certification requirements, or permitting processes that are specific to alternating current (AC) systems.
+
+**Title 2: Infrastructure Adaptation Challenges**
+- Explanation: Current power distribution infrastructure may not be easily adaptable for DC use due to limitations in wiring, transformers, and breaker panels designed primarily for AC systems. This could result in high costs for retrofitting existing infrastructure or building new infrastructure specifically for DC applications.
+
+**Title 3: Skill Gap and Training Needs**
+- Explanation: The lack of expertise and training in DC technologies among electricians, engineers, and technicians may pose a barrier to widespread adoption. This could lead to increased costs associated with onboarding and upskilling the workforce or potential safety concerns due to insufficient knowledge about DC systems.
+
+**Title 4: Interoperability Concerns**
+- Explanation: Ensuring compatibility between various DC components, such as converters, cables, and control systems, can be challenging due to differences in voltage levels, communication protocols, and manufacturing standards. This could result in inefficiencies, compatibility issues, or even system failures if not properly addressed.
+
+**Title 5: Public Awareness and Perception**
+- Explanation: Limited public awareness and understanding of the benefits and advantages of DC technologies may lead to resistance or skepticism towards their adoption. This could result in slower market acceptance, potential delays in project implementation, or increased costs associated with education and outreach efforts.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Lack of Standardized Protocols for DC Interoperability**
+   The absence of globally accepted standards for DC system interoperability could lead to incompatibility issues among various components, hindering widespread adoption.
+
+2. **Investment and Cost Barriers**
+   High initial costs associated with converter stations, DC cables, and infrastructure upgrades may deter potential investors, especially in regions with limited funding for energy infrastructure projects.
+
+3. **Regulatory Hurdles and Policy Uncertainty**
+   Existing regulations that prioritize AC systems may create obstacles to the deployment of DC infrastructure, necessitating changes to legislative frameworks and policies to accommodate DC adoption.
+
+4. **Skills Gap in DC Technology Expertise**
+   A shortage of trained professionals with expertise in DC technologies could pose a challenge in implementing, maintaining, and troubleshooting DC systems effectively, leading to increased risks and potential downtime.
+
+5. **Integration Challenges with Existing AC Infrastructure**
+   The seamless integration of DC systems with existing AC infrastructure may present technical challenges due to the need for conversion between the two voltage types, potentially affecting system efficiency and reliability.

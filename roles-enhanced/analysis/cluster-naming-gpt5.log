@@ -1,0 +1,110 @@
+2026-05-05 18:19:56,719 INFO Starting cluster naming
+2026-05-05 18:19:56,719 INFO Input CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\context_barrier_mention_themes_hdbscan.csv
+2026-05-05 18:19:56,720 INFO Cluster-name output CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\cluster-names-gpt5.csv
+2026-05-05 18:19:56,720 INFO Named row-level output CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\context_barrier_mention_themes_hdbscan_named.csv
+2026-05-05 18:19:56,720 INFO Env file: C:\Users\FEEL\Downloads\images\rag_pipeline\configs\openai-api.env
+2026-05-05 18:19:56,720 INFO Model: gpt-5.4-mini | temperature=0.2 | timeout_sec=120.0 | max_retries=3 | max_chars=16000
+2026-05-05 18:19:56,740 INFO Loaded 600 input rows
+2026-05-05 18:19:56,740 INFO Non-noise clustered rows: 577
+2026-05-05 18:19:56,740 INFO Clusters to consider: 16
+2026-05-05 18:19:56,741 INFO Found 0 already processed clusters
+2026-05-05 18:19:56,741 INFO Naming cluster 0 attempt 1/4 (size=27)
+2026-05-05 18:19:58,048 INFO Saved cluster 0 | name=dc safety standards gap
+2026-05-05 18:19:58,048 INFO Naming cluster 1 attempt 1/4 (size=27)
+2026-05-05 18:19:59,590 INFO Saved cluster 1 | name=cybersecurity vulnerabilities in dc microgrids
+2026-05-05 18:19:59,591 INFO Naming cluster 2 attempt 1/4 (size=107)
+2026-05-05 18:20:01,043 INFO Saved cluster 2 | name=skilled workforce shortage
+2026-05-05 18:20:01,044 INFO Naming cluster 3 attempt 1/4 (size=40)
+2026-05-05 18:20:02,616 INFO Saved cluster 3 | name=regulatory uncertainty and hurdles
+2026-05-05 18:20:02,617 INFO Naming cluster 4 attempt 1/4 (size=50)
+2026-05-05 18:20:03,913 INFO Saved cluster 4 | name=dc interoperability standardization
+2026-05-05 18:20:03,914 INFO Naming cluster 5 attempt 1/4 (size=16)
+2026-05-05 18:20:05,166 INFO Saved cluster 5 | name=dc standardization gaps
+2026-05-05 18:20:05,167 INFO Naming cluster 6 attempt 1/4 (size=12)
+2026-05-05 18:20:06,431 INFO Saved cluster 6 | name=lack of dc standardization
+2026-05-05 18:20:06,431 INFO Naming cluster 7 attempt 1/4 (size=11)
+2026-05-05 18:20:07,691 INFO Saved cluster 7 | name=ac grid integration complexity
+2026-05-05 18:20:07,691 INFO Naming cluster 8 attempt 1/4 (size=19)
+2026-05-05 18:20:08,933 INFO Saved cluster 8 | name=economic uncertainty and roi
+2026-05-05 18:20:08,933 INFO Naming cluster 9 attempt 1/4 (size=36)
+2026-05-05 18:20:10,048 INFO Saved cluster 9 | name=high upfront transition costs
+2026-05-05 18:20:10,049 INFO Naming cluster 10 attempt 1/4 (size=23)
+2026-05-05 18:20:11,377 INFO Saved cluster 10 | name=dc supply chain constraints
+2026-05-05 18:20:11,378 INFO Naming cluster 11 attempt 1/4 (size=40)
+2026-05-05 18:20:13,451 INFO Saved cluster 11 | name=dc component cost availability
+2026-05-05 18:20:13,452 INFO Naming cluster 12 attempt 1/4 (size=52)
+2026-05-05 18:20:14,694 INFO Saved cluster 12 | name=retrofit costs and complexity
+2026-05-05 18:20:14,694 INFO Naming cluster 13 attempt 1/4 (size=53)
+2026-05-05 18:20:15,904 INFO Saved cluster 13 | name=interoperability with existing ac infrastructure
+2026-05-05 18:20:15,905 INFO Naming cluster 14 attempt 1/4 (size=48)
+2026-05-05 18:20:17,644 INFO Saved cluster 14 | name=public awareness and acceptance
+2026-05-05 18:20:17,645 INFO Naming cluster 15 attempt 1/4 (size=16)
+2026-05-05 18:20:19,239 INFO Saved cluster 15 | name=public safety perception concerns
+2026-05-05 18:20:19,260 INFO Clusters newly processed: 16
+2026-05-05 18:20:19,260 INFO Clusters skipped from existing output: 0
+2026-05-05 18:20:19,261 INFO Clusters with naming errors: 0
+2026-05-05 18:20:19,261 INFO Cluster-name CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\cluster-names-gpt5.csv
+2026-05-05 18:20:19,261 INFO Named row-level CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\context_barrier_mention_themes_hdbscan_named.csv
+2026-05-05 18:20:19,261 INFO Log file: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\cluster-naming-gpt5.log
+2026-05-21 19:19:59,877 INFO Starting cluster naming
+2026-05-21 19:19:59,877 INFO Input CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\context_barrier_mention_hdbscan.csv
+2026-05-21 19:19:59,878 INFO Cluster-name output CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\cluster-names-gpt5.csv
+2026-05-21 19:19:59,878 INFO Named row-level output CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\context_barrier_mention_hdbscan_gpt5named.csv
+2026-05-21 19:19:59,878 INFO Env file: C:\Users\FEEL\Downloads\images\rag_pipeline\configs\openai-api.env
+2026-05-21 19:19:59,879 INFO Model: gpt-5.4-mini | temperature=0.2 | timeout_sec=120.0 | max_retries=3 | max_chars=16000
+2026-05-21 19:19:59,919 INFO Loaded 1200 input rows
+2026-05-21 19:19:59,920 INFO Non-noise clustered rows: 1114
+2026-05-21 19:19:59,920 INFO Clusters to consider: 31
+2026-05-21 19:19:59,921 INFO Found 16 already processed clusters
+2026-05-21 19:19:59,921 INFO Skipping existing cluster 0
+2026-05-21 19:19:59,922 INFO Skipping existing cluster 1
+2026-05-21 19:19:59,922 INFO Skipping existing cluster 2
+2026-05-21 19:19:59,922 INFO Skipping existing cluster 3
+2026-05-21 19:19:59,923 INFO Skipping existing cluster 4
+2026-05-21 19:19:59,923 INFO Skipping existing cluster 5
+2026-05-21 19:19:59,923 INFO Skipping existing cluster 6
+2026-05-21 19:19:59,924 INFO Skipping existing cluster 7
+2026-05-21 19:19:59,925 INFO Skipping existing cluster 8
+2026-05-21 19:19:59,925 INFO Skipping existing cluster 9
+2026-05-21 19:19:59,926 INFO Skipping existing cluster 10
+2026-05-21 19:19:59,926 INFO Skipping existing cluster 11
+2026-05-21 19:19:59,926 INFO Skipping existing cluster 12
+2026-05-21 19:19:59,927 INFO Skipping existing cluster 13
+2026-05-21 19:19:59,927 INFO Skipping existing cluster 14
+2026-05-21 19:19:59,928 INFO Skipping existing cluster 15
+2026-05-21 19:19:59,928 INFO Naming cluster 16 attempt 1/4 (size=36)
+2026-05-21 19:20:03,391 INFO Saved cluster 16 | name=public safety perception concerns
+2026-05-21 19:20:03,392 INFO Naming cluster 17 attempt 1/4 (size=79)
+2026-05-21 19:20:05,714 INFO Saved cluster 17 | name=public awareness and acceptance
+2026-05-21 19:20:05,715 INFO Naming cluster 18 attempt 1/4 (size=14)
+2026-05-21 19:20:07,282 INFO Saved cluster 18 | name=lack of standardized dc components
+2026-05-21 19:20:07,282 INFO Naming cluster 19 attempt 1/4 (size=15)
+2026-05-21 19:20:09,739 INFO Saved cluster 19 | name=limited dc hardware availability
+2026-05-21 19:20:09,739 INFO Naming cluster 20 attempt 1/4 (size=33)
+2026-05-21 19:20:11,227 INFO Saved cluster 20 | name=legacy infrastructure compatibility
+2026-05-21 19:20:11,228 INFO Naming cluster 21 attempt 1/4 (size=47)
+2026-05-21 19:20:12,780 INFO Saved cluster 21 | name=regulatory uncertainty and compliance
+2026-05-21 19:20:12,781 INFO Naming cluster 22 attempt 1/4 (size=23)
+2026-05-21 19:20:14,165 INFO Saved cluster 22 | name=retrofit costs and complexity
+2026-05-21 19:20:14,165 INFO Naming cluster 23 attempt 1/4 (size=17)
+2026-05-21 19:20:15,844 INFO Saved cluster 23 | name=retrofit costs and disruption
+2026-05-21 19:20:15,844 INFO Naming cluster 24 attempt 1/4 (size=36)
+2026-05-21 19:20:17,301 INFO Saved cluster 24 | name=existing ac grid integration
+2026-05-21 19:20:17,302 INFO Naming cluster 25 attempt 1/4 (size=61)
+2026-05-21 19:20:19,492 INFO Saved cluster 25 | name=dc ac interoperability challenges
+2026-05-21 19:20:19,493 INFO Naming cluster 26 attempt 1/4 (size=50)
+2026-05-21 19:20:20,866 INFO Saved cluster 26 | name=dc standardization and interoperability
+2026-05-21 19:20:20,867 INFO Naming cluster 27 attempt 1/4 (size=47)
+2026-05-21 19:20:22,675 INFO Saved cluster 27 | name=dc interoperability standards
+2026-05-21 19:20:22,676 INFO Naming cluster 28 attempt 1/4 (size=30)
+2026-05-21 19:20:24,057 INFO Saved cluster 28 | name=dc interoperability standards
+2026-05-21 19:20:24,058 INFO Naming cluster 29 attempt 1/4 (size=27)
+2026-05-21 19:20:25,978 INFO Saved cluster 29 | name=regulatory inconsistency and compliance barriers
+2026-05-21 19:20:25,979 INFO Naming cluster 30 attempt 1/4 (size=31)
+2026-05-21 19:20:28,085 INFO Saved cluster 30 | name=regulatory and standards barriers
+2026-05-21 19:20:28,120 INFO Clusters newly processed: 15
+2026-05-21 19:20:28,120 INFO Clusters skipped from existing output: 16
+2026-05-21 19:20:28,120 INFO Clusters with naming errors: 0
+2026-05-21 19:20:28,121 INFO Cluster-name CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\cluster-names-gpt5.csv
+2026-05-21 19:20:28,121 INFO Named row-level CSV: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\context_barrier_mention_hdbscan_gpt5named.csv
+2026-05-21 19:20:28,121 INFO Log file: C:\Users\FEEL\Downloads\images\rag_pipeline\roles-enhanced\analysis\cluster-naming-gpt5.log

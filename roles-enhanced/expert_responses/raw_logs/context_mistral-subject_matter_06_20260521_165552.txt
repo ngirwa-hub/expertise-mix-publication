@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Lack of Standardized Regulations**
+Explanation: The absence of universally accepted regulations for low and medium voltage DC systems can lead to confusion, misinterpretations, and non-compliance among stakeholders, hindering widespread adoption.
+
+Title 2: **Skills Gap in DC Technologies**
+Explanation: A shortage of professionals with expertise in direct current technologies may limit the ability to design, install, maintain, and troubleshoot DC systems efficiently, posing a barrier to their adoption and large-scale implementation.
+
+Title 3: **Interoperability Issues between DC Systems**
+Explanation: Inconsistencies in communication protocols and interfaces between various DC components can result in compatibility issues, making it challenging for different systems to work together seamlessly, thereby hindering the widespread adoption of DC technologies.
+
+Title 4: **High Initial Investment Costs**
+Explanation: The high cost associated with setting up initial infrastructure for direct current systems might deter potential adopters, as they may perceive the investment as too risky or cost-prohibitive compared to traditional AC systems.
+
+Title 5: **Limited Availability of DC Components**
+Explanation: Insufficient supply of high-quality and reliable DC components, such as cables, converters, and other hardware, can hinder the rapid growth and widespread adoption of direct current technologies, especially in regions with limited manufacturing capabilities.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Standardization Limitations**
+   - Absence of globally agreed-upon standards for DC components, interfaces, and communication protocols, which can lead to incompatibility issues among various system components.
+
+2. **Investment Barriers**
+   - High initial costs associated with converter stations, cables, and other necessary infrastructure, making it difficult for stakeholders to justify the investment without proven long-term benefits or government subsidies.
+
+3. **Regulatory Hurdles**
+   - Existing electrical regulations and safety standards primarily focused on AC systems, requiring amendments and updates to accommodate DC technology, slowing down its adoption.
+
+4. **Training and Skills Gap**
+   - Lack of expertise in the design, installation, operation, and maintenance of DC systems among engineers, technicians, and other relevant professionals, hindering widespread implementation.
+
+5. **Integration Challenges with Existing Infrastructure**
+   - Difficulties in integrating DC technology seamlessly with existing AC infrastructure, requiring extensive planning and coordination to minimize disruption during the transition.

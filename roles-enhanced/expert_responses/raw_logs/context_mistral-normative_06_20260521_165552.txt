@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Lack of Standardized Regulations for DC Systems**
+Explanation: The absence of universally accepted regulations governing direct current (DC) systems could pose challenges in terms of compliance, installation, and operation. This lack of standardization may lead to inconsistencies across different regions and jurisdictions, making it difficult to ensure safety and efficiency.
+
+Title 2: **Interoperability Issues Between DC Components**
+Explanation: Compatibility problems between various DC components such as cables, converters, and software tools could hinder widespread adoption of DC technologies. Ensuring seamless communication and coordination among these elements is crucial for optimal performance and efficient power distribution.
+
+Title 3: **Inadequate Infrastructure for DC Transmission**
+Explanation: The current electric grid infrastructure may not be well-suited to handle direct current, which could necessitate costly upgrades or modifications to support high volumes of DC transmission. This infrastructural challenge might deter potential adopters due to the associated costs and logistical complexities.
+
+Title 4: **Public Perception and Awareness of DC Safety**
+Explanation: Concerns about the safety of direct current systems among the general public could impede its widespread adoption. Educating the public on the advantages, benefits, and safety measures associated with DC technologies is essential to address any misconceptions and promote acceptance.
+
+Title 5: **Insufficient Training for DC Maintenance Personnel**
+Explanation: The need for skilled personnel trained in direct current systems maintenance could create a barrier to widespread adoption. Providing adequate training programs and resources for existing workforces or developing new specialized roles might be necessary to ensure the effective operation of DC technologies.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Standardization Limitations**
+   Lack of globally agreed-upon standards for DC equipment, cables, and converters may lead to interoperability issues, hindering the widespread adoption of DC technologies.
+
+2. **Infrastructure Upgrade Costs**
+   The high costs associated with upgrading existing AC infrastructure to accommodate DC systems could deter investment in DC projects, especially in regions with limited financial resources.
+
+3. **Regulatory Barriers for Grid Integration**
+   Existing regulations may not be fully supportive of large-scale integration of DC grids into the current AC grid infrastructure, creating barriers to widespread adoption and efficient operation.
+
+4. **Training and Skills Gap**
+   The need for specialized training in DC technologies among engineers, technicians, and maintenance personnel may pose a challenge to rapid adoption, as there is currently a limited pool of qualified professionals.
+
+5. **Public Perception and Adoption Hesitancy**
+   Potential concerns related to the safety and reliability of DC systems among the general public could slow down adoption rates, particularly in residential applications where misconceptions or fears about new technology may persist.

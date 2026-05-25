@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New Barriers to DC Adoption - Expert Elicitation
+
+Here are 5 new barriers to DC adoption, considering my Environmental, Regulatory & Socioeconomic Advisor role:
+
+1.  **Harmonized International Standards Gap:** Lack of globally recognized and legally binding standards for DC low and medium voltage systems creates uncertainty for manufacturers, installers, and project developers, hindering cross-border deployments.
+2.  **Contractor Skillset Deficit:** Existing electrical contractors lack the specialized training and experience required for DC system design, installation, and maintenance, leading to increased risk and potentially compromised performance.
+3.  **Community Perception & Aesthetic Concerns:** DC infrastructure (cabling, converters) may face public resistance due to perceived visual impact, noise, or concerns about electromagnetic fields, requiring proactive community engagement and mitigation strategies.
+4.  **Legacy Infrastructure Retrofit Costs:** Integrating DC into existing facilities with significant AC infrastructure presents substantial retrofit costs and logistical challenges, potentially outweighing the benefits in some cases.
+5.  **Lifecycle Environmental Impact Assessment:** A full lifecycle assessment of DC systems, including converter manufacturing and disposal, is needed to ensure that the shift to DC genuinely delivers environmental benefits compared to AC alternatives.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Interoperability**
+Current DC component designs often lack standardized communication protocols, hindering seamless integration between different manufacturers’ equipment.
+
+2. **Limited Availability of Skilled Technicians**
+A shortage of technicians trained in DC systems maintenance and troubleshooting will impede widespread deployment and reliable operation.
+
+3. **Retrofit Challenges in Existing Infrastructure**
+Adapting existing AC infrastructure to DC presents significant physical and logistical hurdles, increasing costs and complexity.
+
+4. **Public Perception & Safety Concerns**
+Lack of public familiarity with DC technologies may lead to safety concerns and resistance, requiring extensive outreach and education.
+
+5. **Component Cost Volatility**
+The nascent DC component market experiences price fluctuations, creating uncertainty for long-term project budgeting and ROI calculations.

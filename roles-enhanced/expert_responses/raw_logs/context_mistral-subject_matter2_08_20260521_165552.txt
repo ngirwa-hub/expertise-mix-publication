@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers for Cross-Border DC Transmission**
+Explanation: Lack of harmonized regulations and standards for cross-border high voltage direct current (HVDC) transmission can hinder the adoption of DC technology, as it may lead to legal complications and increased costs due to the need for custom solutions in each country.
+
+Title 2: **Infrastructure Compatibility Challenges**
+Explanation: Existing AC grid infrastructure is not easily compatible with DC systems, requiring significant upgrades or modifications, which can be costly and time-consuming. This barrier includes issues like converter stations, transformers, and network integration.
+
+Title 3: **Standardization and Interoperability Concerns**
+Explanation: The absence of well-defined standards for DC components and systems can lead to incompatibility between various DC solutions, making it difficult to create interconnected DC networks. This may slow down the adoption of DC technology due to increased complexity and costs.
+
+Title 4: **Public Awareness and Education**
+Explanation: Limited understanding among end-users, policymakers, and stakeholders about the benefits and feasibility of DC technologies can create barriers to their widespread adoption. Educating the public and providing clear information about DC systems is essential for promoting acceptance and facilitating integration.
+
+Title 5: **Integration with Existing Energy Storage Systems**
+Explanation: The compatibility of DC systems with existing energy storage solutions, such as lithium-ion batteries, flow batteries, and others, can be a barrier to their widespread adoption. Developing interoperable DC storage systems that are compatible with various battery technologies is crucial for promoting the adoption of DC technology in the energy sector.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Hurdles for DC Grid Integration**
+   - Lack of standardized regulations and guidelines for DC grid integration, which can hinder the widespread adoption of DC systems due to unclear compliance requirements.
+
+2. **Interoperability Challenges between DC Devices**
+   - Inconsistencies in communication protocols and interfaces between different DC devices, leading to compatibility issues that may affect system performance and reliability.
+
+3. **Infrastructure Adaptation for DC Systems**
+   - The need for significant modifications to existing AC infrastructure to accommodate DC systems, including converter stations and transformers, which can be cost-prohibitive and time-consuming.
+
+4. **DC Skills Gap in the Workforce**
+   - Insufficient knowledge and expertise in DC technologies among engineers, technicians, and maintenance personnel, leading to difficulties in designing, installing, and maintaining DC systems.
+
+5. **Cost-Effectiveness Concerns for DC Transmission**
+   - Higher initial investment costs associated with DC transmission lines compared to AC counterparts, potentially deterring utilities and investors from adopting DC technologies unless significant cost reductions can be achieved over time.

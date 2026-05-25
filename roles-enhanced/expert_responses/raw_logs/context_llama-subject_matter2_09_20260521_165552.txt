@@ -1,0 +1,29 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Cost Competitiveness**: High initial investment costs of DC systems compared to traditional AC systems may deter widespread adoption, limiting the potential for economies of scale and reducing the incentive for wide-scale deployment.
+2. **Infrastructure and Infrastructure Upgrades**: The upgrading or retrofitting of existing infrastructure to accommodate DC systems can be costly and time-consuming, posing a barrier to adoption.
+3. **Regulatory Compliance and Approvals**: Ensuring compliance with various regulatory standards and obtaining necessary approvals for the implementation of new DC technologies can be a complex and lengthy process that may discourage adoption.
+4. **Technical Complexity and Expertise Required**: The technical expertise required to design, install, and maintain DC systems may be a significant barrier to adoption, as it requires specialized knowledge and skills which not all industries or regions possess.
+5. **Public Perception and Awareness**: Lack of public understanding and awareness about the benefits of DC technologies can hinder their adoption. Educating the public about the advantages of these systems is crucial to overcoming this barrier.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. High Implementation Costs
+Short Title: DC System Expenses
+Brief Explanation: The initial costs of setting up and maintaining a direct current (DC) system can be significantly higher than traditional alternating current (AC) systems, deterring potential adopters due to the high investment required.
+
+2. Insufficient Knowledge and Information
+Short Title: Lack of Awareness
+Brief Explanation: Many stakeholders might not have sufficient knowledge about the benefits and practical implementation of DC technologies, leading to reluctance in adopting these systems.
+
+3. Legacy Infrastructure
+Short Title: Incompatible Hardware
+Brief Explanation: Older buildings or infrastructure may require costly retrofitting or upgrading to accommodate DC systems, posing a significant challenge for those with outdated electrical systems that cannot support DC technology without extensive modifications.
+
+4. Vendor Availability and Experience
+Short Title: Limited Supplier Support
+Brief Explanation: The availability of experienced vendors and suppliers who specialize in DC technologies might be limited, leading to potential delays or issues with the implementation process due to a lack of expertise among service providers.
+
+5. Regulatory Uncertainty
+Short Title: Legal Frameworks
+Brief Explanation: The absence of clear and comprehensive regulations governing DC systems can create uncertainty for potential adopters, as they may be hesitant to invest in new technologies without a solid legal framework supporting their use.
+

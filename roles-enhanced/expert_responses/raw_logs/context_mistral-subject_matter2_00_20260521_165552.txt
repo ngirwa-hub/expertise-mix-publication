@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers**
+Explanation: The absence of standardized regulations for DC systems across different regions could hinder widespread adoption, as it might lead to incompatibilities between nations, thus complicating interconnection and operation.
+
+Title 2: **Infrastructure Adaptation Costs**
+Explanation: Existing AC infrastructure is vast and expensive, making the cost of replacing or adapting it for DC a significant barrier. This includes power lines, transformers, and distribution systems that would need to be upgraded or replaced.
+
+Title 3: **Technical Interoperability Issues**
+Explanation: Ensuring seamless interoperability between various DC components (such as batteries, converters, and controllers) from different manufacturers remains a challenge due to the lack of industry-wide standards.
+
+Title 4: **Public Perception and Awareness**
+Explanation: As with any new technology, public acceptance plays a crucial role in its widespread adoption. However, there may be initial skepticism or confusion about DC technologies, which could slow down their implementation and growth.
+
+Title 5: **Skills Gap in DC Expertise**
+Explanation: The growing demand for DC expertise outpaces the current supply, leading to a skills gap. This can result in a shortage of qualified personnel necessary for the design, installation, maintenance, and operation of DC systems.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Lack of Standardized DC Coding Protocols**
+   The absence of universally accepted coding protocols for DC systems can lead to incompatibility issues between different components, hindering seamless integration and interoperability.
+
+2. **Regulatory Uncertainty**
+   Unclear or inconsistent regulatory frameworks regarding DC systems can create uncertainty for investors, manufacturers, and operators, potentially slowing down the adoption of DC technologies.
+
+3. **Skills Gap in DC Expertise**
+   The rapid growth of DC technologies may outpace the availability of skilled professionals with deep knowledge and experience in DC design, operation, and maintenance. This skills gap could pose a barrier to widespread DC adoption.
+
+4. **Infrastructure Adaptation Challenges**
+   Existing AC infrastructure is often optimized for AC systems. Adapting this infrastructure to accommodate DC technologies might require significant modifications, which can be costly and time-consuming.
+
+5. **Public Perception and Awareness**
+   Public understanding and acceptance of DC technologies are essential for widespread adoption. However, due to the novelty and complexity of DC systems compared to AC, there may be misconceptions or resistance that need to be addressed through education and awareness campaigns.

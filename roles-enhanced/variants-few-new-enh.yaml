@@ -1,0 +1,84 @@
+variants:
+  llama-generalist:
+    family: llama-pro:latest
+    role: generalist
+    model: llama-generalist-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  llama-generalist2:
+    family: llama-pro:latest
+    role: generalist
+    model: llama-generalist2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  llama-normative:
+    family: llama-pro:latest
+    role: normative
+    model: llama-normative-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  llama-normative2:
+    family: llama-pro:latest
+    role: normative
+    model: llama-normative2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  llama-subject_matter:
+    family: llama-pro:latest
+    role: subject_matter
+    model: llama-subject_matter-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  llama-subject_matter2:
+    family: llama-pro:latest
+    role: subject_matter
+    model: llama-subject_matter2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  mistral-generalist:
+    family: mistral:latest
+    role: generalist
+    model: mistral-generalist-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  mistral-generalist2:
+    family: mistral:latest
+    role: generalist
+    model: mistral-generalist2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  mistral-normative:
+    family: mistral:latest
+    role: normative
+    model: mistral-normative-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  mistral-normative2:
+    family: mistral:latest
+    role: normative
+    model: mistral-normative2-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  mistral-subject_matter:
+    family: mistral:latest
+    role: subject_matter
+    model: mistral-subject_matter-enh:latest
+    decoding_policy: native
+    enabled: true
+
+  mistral-subject_matter2:
+    family: mistral:latest
+    role: subject_matter
+    model: mistral-subject_matter2-enh:latest
+    decoding_policy: native
+    enabled: true

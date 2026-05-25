@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## New Barriers to DC Adoption (Shift2DC)
+
+Given my Senior Renewable Energy Program & Project Manager role, focused on delivery and process, here are five new barriers to DC adoption beyond those already identified:
+
+1. **Lack of Standardized Interoperability Testing:** Without a widely accepted, rigorous testing regime to certify interoperability between different DC components (converters, cables, loads), integration risk and system-wide failures become significant concerns.
+2. **Supply Chain Bottlenecks for Specialized Components:** The current supply chain is largely geared towards AC. Scaling DC component manufacturing to meet demand will require substantial investment and could lead to material shortages and price volatility.
+3. **Skills Gap in DC System Design & Maintenance:** Existing electrical engineering and maintenance personnel lack the specific expertise required for DC systems. Retraining and attracting new talent is a critical, and potentially lengthy, process.
+4. **Retrofit Costs & Disruption:** Integrating DC into existing infrastructure (buildings, ports) will involve significant retrofit costs and operational disruption, creating resistance from stakeholders prioritizing short-term ROI.
+5. **Insurance and Liability Concerns:** Insurance providers and legal teams are likely to be cautious regarding new technologies. Establishing clear liability frameworks for DC system failures and safety incidents will be essential to secure project financing and operational confidence.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Retrofit Costs & Disruption
+Replacing existing AC infrastructure with DC is expensive and disruptive, especially in established facilities.
+
+2. Lack of Universal Standards
+The absence of globally recognized DC voltage and communication standards creates interoperability challenges.
+
+3. Skilled Workforce Gap
+A shortage of engineers and technicians with DC power systems expertise hinders design, installation, and maintenance.
+
+4. Safety Perception & Training
+Public and worker apprehension regarding DC safety, coupled with a need for specialized training, can slow adoption.
+
+5. Grid Interconnection Complexity
+Integrating DC microgrids with existing AC grids requires sophisticated power electronics and control systems, adding complexity and cost.

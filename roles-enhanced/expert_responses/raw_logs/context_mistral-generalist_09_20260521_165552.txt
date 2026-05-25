@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Hurdles for Interoperability**
+Explanation: The lack of standardized regulations for interoperability between different DC systems could hinder widespread adoption, making it challenging to seamlessly integrate various technologies across diverse settings.
+
+Title 2: **Infrastructure Investment and Upgrade Costs**
+Explanation: High initial investment costs for converting existing AC infrastructure to DC, as well as the cost of upgrading equipment such as transformers and cables, may deter potential adopters, especially in areas with limited financial resources.
+
+Title 3: **Training and Skill Gap**
+Explanation: The need for specialized training on DC technology and maintenance could lead to a shortage of qualified personnel, creating operational challenges and increasing costs for organizations transitioning to DC systems.
+
+Title 4: **Integration with Existing Grid Infrastructure**
+Explanation: Difficulties in integrating DC systems into existing AC grid infrastructure might pose technical barriers, requiring significant modifications or upgrades that could delay widespread adoption.
+
+Title 5: **Public Awareness and Acceptance of DC Technology**
+Explanation: Limited understanding among the general public about the benefits and safety of DC technology may slow its acceptance, hindering growth in consumer-facing applications like electric vehicles and household appliances.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Standardization Barrier**
+   Lack of universal standards for DC components and systems could hinder interoperability, making it difficult to integrate various DC technologies across different applications and regions.
+
+2. **Infrastructure Costs Barrier**
+   High initial costs associated with upgrading existing AC infrastructure to DC, including the replacement of cables, converters, and transformers, may deter potential adopters due to perceived high financial risks.
+
+3. **Regulatory Uncertainty Barrier**
+   Ambiguous or inconsistent regulations governing DC technologies across different jurisdictions could create legal obstacles for widespread adoption, as well as compliance challenges for both manufacturers and end-users.
+
+4. **Training and Skills Gap Barrier**
+   Insufficient training programs and resources available for professionals in various industries to understand the technical intricacies of DC systems might lead to a shortage of skilled personnel capable of implementing, maintaining, and troubleshooting DC technologies effectively.
+
+5. **Public Awareness and Acceptance Barrier**
+   Limited understanding and skepticism among end-users about the benefits and safety of DC technologies could hinder their widespread adoption, particularly in residential and commercial settings where consumers might be reluctant to adopt new, unfamiliar technology without proper education and reassurance.

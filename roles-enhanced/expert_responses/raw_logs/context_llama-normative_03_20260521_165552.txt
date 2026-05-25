@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Social acceptance concerns**: The public may be hesitant to adopt DC technologies due to fears about safety, reliability, or potential disruptions in service. Addressing these concerns through comprehensive education and communication strategies can help alleviate social barriers.
+2. **Inadequate regulatory frameworks**: Lack of clear guidelines and standards for DC systems can create uncertainty for manufacturers, installers, and operators, slowing adoption rates. Addressing regulatory gaps through collaborative efforts between industry stakeholders and governments could help streamline the adoption process.
+3. **Technical complexity**: Integrating DC technologies into existing infrastructure may require significant investment in new hardware and software, as well as specialized training for maintenance personnel. Simplifying these processes through user-friendly interfaces, modular designs, or advanced automation could help overcome technical barriers to adoption.
+4. **Interoperability issues**: DC systems often rely on compatibility with various devices and networks. Ensuring seamless integration across different platforms can be a challenge. Addressing interoperability through standardization efforts, collaborative partnerships, or third-party certifications could help overcome these barriers.
+5. **Limited availability of components**: DC technologies rely on specialized hardware and components, which may not yet be widely available in the market. Encouraging the development and mass production of such components through public-private partnerships or research funding can help expand the market for DC solutions and facilitate adoption.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+Expert elicitation exercise input:
+
+1. Lack of awareness and understanding of DC technology benefits among building occupants (Tech Awareness Gap)
+   Brief explanation: Limited knowledge about the advantages of using direct current systems in buildings, leading to reluctance to adopt new solutions.
+
+2. High initial investment costs for implementing DC systems in existing infrastructure (Cost Barrier)
+   Brief explanation: The financial burden associated with upgrading facilities and replacing older equipment with DC-compatible alternatives could be a significant deterrent for adoption.
+
+3. Insufficient legislative support and regulations promoting DC technology (Legislation Gap)
+   Brief explanation: Limited government policies, incentives, or mandates encouraging the widespread use of direct current systems may discourage adoption by potential users.
+
+4. Resistance to change from industry professionals and experts (Resistance to Adoption)
+   Brief explanation: The reluctance of professionals in industries such as energy, electronics, and manufacturing to adopt new technologies due to fear of job displacement or lack of understanding about the benefits.
+
+5. Inadequate technical support and maintenance infrastructure for DC systems (Technical Support Gap)
+   Brief explanation: Lack of specialized service providers and skilled professionals to maintain, repair, and upgrade direct current systems once they are implemented in buildings or other facilities.
+

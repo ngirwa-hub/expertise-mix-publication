@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Lack of Standardization for DC Components**
+Explanation: The absence of universal standards for various DC components, such as cables, converters, and inverters, could lead to compatibility issues among different systems, hindering widespread adoption and increasing costs due to the need for custom solutions.
+
+Title 2: **Regulatory Hurdles**
+Explanation: Oversight bodies may not have updated regulations or guidelines specifically addressing DC technologies, creating uncertainty and potential barriers for their implementation in various applications.
+
+Title 3: **Investment Risks Perceived by Stakeholders**
+Explanation: Investors might be hesitant to fund projects involving new technologies like DC due to perceived higher risks, unclear return on investment, or a lack of understanding of the technology's long-term benefits.
+
+Title 4: **Insufficient Training and Expertise**
+Explanation: A shortage of skilled professionals with expertise in DC technologies could hamper the adoption and efficient operation of DC systems, leading to higher costs and potential safety issues.
+
+Title 5: **Integration Challenges with Legacy AC Systems**
+Explanation: Integrating DC systems with existing AC infrastructure may pose technical challenges due to differences in voltage levels, frequency, and system architecture, which could slow down the adoption of DC technologies.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Regulatory Hurdles in Grid Integration
+   Lack of standardized regulations and policies for integrating DC systems into existing AC grids may hinder widespread adoption, particularly at a national level.
+
+2. Interoperability Challenges Across Manufacturers
+   Inconsistent communication protocols among different manufacturers could lead to compatibility issues, making it difficult to seamlessly integrate various components of DC systems.
+
+3. Lack of Skilled Workforce
+   The renewable energy sector may face a shortage of trained professionals with expertise in DC technologies, which could slow down the adoption process and increase costs due to reliance on external consultants.
+
+4. High Initial Investment Costs
+   The cost associated with setting up DC infrastructure can be significantly higher than AC systems, particularly for smaller-scale projects. This may deter potential investors who are looking for lower risk and quicker returns.
+
+5. Insufficient Public Awareness and Education
+   Limited public understanding and acceptance of DC technologies can create barriers to their adoption. Educational initiatives aimed at increasing awareness and addressing misconceptions are essential for widespread adoption.

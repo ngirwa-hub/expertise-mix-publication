@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Regulatory Barriers to Grid Integration**
+Explanation: The lack of standardized regulations for direct current (DC) grid integration could pose a significant barrier, as it may lead to inconsistencies and potential inefficiencies during the implementation process.
+
+**Title 2: Interoperability Challenges with Existing AC Infrastructure**
+Explanation: Compatibility issues between DC systems and existing alternating current (AC) infrastructure might arise due to differences in voltage levels, system configurations, and equipment specifications, which could hamper widespread DC adoption.
+
+**Title 3: Lack of Adequate Training for Technicians**
+Explanation: The need for specialized training and education for technicians to understand and maintain DC systems is essential but often overlooked. A shortage of trained personnel may slow down the transition to DC technology.
+
+**Title 4: High Initial Investment Costs**
+Explanation: The cost of implementing DC systems, particularly in terms of hardware and infrastructure upgrades, can be significantly higher than for alternating current systems. This could deter potential adopters, especially small-scale users with limited budgets.
+
+**Title 5: Public Perception and Adoption Hesitancy**
+Explanation: The general public may have reservations about adopting new technologies, such as DC systems. Addressing concerns related to safety, reliability, and familiarity is crucial for fostering widespread acceptance and adoption of DC technology.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Regulatory Compliance Barriers**
+   - The lack of standardized regulations and guidelines for the design, installation, and operation of low and medium voltage DC systems across different regions can present a significant barrier to widespread adoption.
+
+2. **Integration with Existing Infrastructure**
+   - The compatibility of DC systems with existing AC infrastructure, including transformers, cables, and equipment, is crucial for seamless integration. However, the high cost of upgrading or replacing legacy infrastructure can pose a challenge in implementing DC solutions.
+
+3. **Training and Skill Gap**
+   - The need for specialized training and skills to design, install, maintain, and operate DC systems may lead to a shortage of qualified personnel, hindering the widespread adoption of these technologies.
+
+4. **Public Perception and Awareness**
+   - Overcoming public skepticism and fostering understanding about the benefits and safety of DC systems is essential for large-scale adoption. Misconceptions or fears related to direct current can create barriers to its implementation, particularly in residential settings.
+
+5. **Standards Harmonization**
+   - The harmonization of international standards for DC components such as converters, cables, and connectors is necessary to ensure interoperability and avoid compatibility issues among various manufacturers and systems. This process can take time and require substantial effort from industry stakeholders and standard-setting bodies.

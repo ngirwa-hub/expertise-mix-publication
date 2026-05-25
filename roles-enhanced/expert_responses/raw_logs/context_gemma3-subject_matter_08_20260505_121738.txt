@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+## DC Adoption Barriers - Expert Insights
+
+Here are 5 new barriers to DC adoption, considering my role as a Low Voltage Systems & Automation Engineer SME:
+
+1.  **Lack of Standardized Component Interoperability:** Currently, DC components from different manufacturers often lack standardized communication protocols and physical interfaces, hindering system integration and creating vendor lock-in.
+2.  **Cybersecurity Vulnerabilities in DC Microgrids:** DC microgrids introduce new attack vectors. Limited experience and established best practices for securing DC networks pose a significant risk.
+3.  **Limited Availability of Skilled Technicians:** Existing electrical training programs are heavily focused on AC systems. A shortage of technicians proficient in DC system design, installation, and maintenance will impede deployment.
+4.  **Retrofit Challenges & Infrastructure Costs:** Replacing existing AC infrastructure with DC is expensive and disruptive. The cost-benefit analysis for retrofits often favors incremental AC upgrades.
+5.  **Uncertainty Regarding Long-Term Component Reliability:** DC components, especially power converters, may have different failure modes and degradation characteristics compared to AC equivalents. Long-term reliability data is currently lacking.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Lack of Standardized Component Safety Ratings**
+Current safety standards are heavily geared towards AC systems. Adapting and establishing equivalent DC safety ratings for components and systems will be crucial, potentially delaying adoption due to testing and certification requirements.
+
+2. **Limited Availability of Skilled Technicians**
+The current workforce lacks significant experience with DC systems. Training and upskilling programs will be necessary to ensure proper installation, maintenance, and troubleshooting, creating a skills gap.
+
+3. **Legacy System Integration Costs**
+Retrofitting existing AC infrastructure to incorporate DC components can be prohibitively expensive and disruptive, especially in brownfield environments.
+
+4. **DC Electromagnetic Interference (EMI)**
+DC systems, particularly at higher voltages, can generate significant EMI, requiring specialized shielding and mitigation techniques which add cost and complexity.
+
+5. **Public Perception of DC Safety**
+Despite being lower voltage, public perception may be negatively influenced if DC is perceived as "new" or "untested," potentially hindering acceptance in building and port applications.

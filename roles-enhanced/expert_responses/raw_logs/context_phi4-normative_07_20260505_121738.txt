@@ -1,0 +1,26 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Interoperability Challenges**: The integration of DC systems with existing AC infrastructure can lead to compatibility issues, especially when interfacing with legacy equipment or systems not designed for DC operation. This may require costly modifications or replacements.
+
+2. **Skilled Workforce Shortage**: There is a limited number of professionals trained specifically in DC technologies. This lack of skilled workers can hinder the adoption and proper maintenance of DC systems across various industries.
+
+3. **Market Perception and Awareness**: Despite advancements, there remains a general lack of understanding and awareness about the benefits of DC over AC among potential adopters. Misconceptions or insufficient information may deter investment and implementation.
+
+4. **Economic Incentives Limitations**: While some regions offer incentives for renewable energy adoption, similar financial support for transitioning to DC systems is not consistently available. This can make initial investments less appealing without clear economic benefits.
+
+5. **Standardization Gaps**: The absence of universally accepted standards for DC systems creates uncertainty and inconsistency in implementation practices. Without standardized protocols, the scalability and interoperability of DC solutions are compromised.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. **Grid Infrastructure Compatibility**  
+   Existing power grids are predominantly AC, requiring significant upgrades to accommodate DC systems, including transformers and inverters that can handle bidirectional power flow effectively.
+
+2. **Standardization Challenges**  
+   Lack of unified standards for DC voltage levels and connectors complicates interoperability between different manufacturers and hinders widespread adoption across various sectors.
+
+3. **Economic Viability Concerns**  
+   High initial costs of DC infrastructure, such as converters and specialized equipment, pose economic barriers, making it challenging to justify investment without clear long-term savings or incentives.
+
+4. **Regulatory Uncertainty**  
+   Inconsistent regulations and policies across regions create uncertainty for stakeholders considering DC adoption, complicating compliance efforts and delaying implementation timelines.
+
+5. **Public Awareness and Acceptance**  
+   Limited public understanding of the benefits and functionality of DC systems can lead to resistance or indifference towards adopting new technologies that require behavioral changes in energy consumption patterns.

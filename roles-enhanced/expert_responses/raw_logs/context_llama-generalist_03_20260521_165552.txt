@@ -1,0 +1,29 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Inadequate Infrastructure** - The lack of proper infrastructure for direct current (DC) systems, such as insufficient power quality or voltage regulation capabilities, can pose challenges in implementing DC technologies.
+2. **High Initial Costs** - DC systems often come with higher upfront costs compared to traditional alternating current (AC) solutions, making it difficult for businesses to invest in these technologies without significant financial incentives.
+3. **Limited Interoperability** - DC systems may not be compatible with existing AC infrastructure or devices, leading to technical challenges and the need for costly upgrades or replacements.
+4. **Skilled Workforce Shortage** - The lack of skilled professionals trained in DC technologies can hinder their adoption, as businesses may struggle to find qualified personnel to design, install, and maintain these systems.
+5. **Regulatory Uncertainty** - Unclear or inconsistent regulations governing DC systems at local, regional, or national levels can create confusion and uncertainty for businesses looking to adopt these technologies. This may discourage investments in DC solutions due to potential legal and financial risks.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Legacy Infrastructure
+Short Title: Lack of investment in modernizing existing electrical infrastructure
+Explanation: Aging power grids and outdated electrical infrastructure limit the capacity to integrate DC systems effectively, hindering adoption.
+
+2. Interoperability Challenges
+Short Title: Limited compatibility between DC and AC systems
+Explanation: The inability to seamlessly integrate DC systems with existing AC infrastructure can create technical barriers to widespread adoption.
+
+3. Safety Concerns
+Short Title: Fears of increased fire risks or electrical hazards
+Explanation: Perceived safety concerns associated with DC technology may discourage adoption by stakeholders and regulators alike.
+
+4. Insufficient Policy Support
+Short Title: Lack of government incentives or regulations promoting DC adoption
+Explanation: Without strong policy support, the shift to DC technologies may not receive adequate investment or consideration by industry participants.
+
+5. Public Acceptance
+Short Title: Limited understanding and perception of benefits among consumers and businesses
+Explanation: Insufficient public awareness and education about DC technology can hinder adoption, as many may not recognize the potential advantages it offers.
+

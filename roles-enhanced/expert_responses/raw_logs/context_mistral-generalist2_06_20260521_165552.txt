@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Compatibility Challenges with Existing AC Infrastructure**
+- Explanation: Integrating DC systems into existing AC infrastructure may pose significant compatibility issues, such as the need for costly conversion equipment or retrofitting of electrical components to support DC.
+
+**Title 2: Regulatory and Standardization Lags**
+- Explanation: The slow pace of regulatory adaptation and standardization processes can create barriers to DC adoption by delaying the acceptance of new technologies, creating uncertainty for investors, and hindering scalability.
+
+**Title 3: Training and Skill Gap in DC Technology**
+- Explanation: A lack of expertise among installation and maintenance professionals may lead to inadequate implementation and management of DC systems, increasing operational risks and costs.
+
+**Title 4: Infrastructure Deployment Costs**
+- Explanation: The high upfront costs associated with deploying DC infrastructure, particularly for large-scale projects, can deter potential investors and slow down the adoption of these technologies.
+
+**Title 5: Public Perception and Adoption Barriers**
+- Explanation: Misconceptions, lack of awareness, or resistance to change among the general public can hinder the widespread acceptance and adoption of DC systems in various applications like buildings, data centers, and ports.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Lack of Standardized Regulations and Compliance Frameworks
+   - The absence of universal, consistent regulations and compliance frameworks for DC systems can create barriers to adoption due to the complexity of navigating varying national and regional standards.
+
+2. Infrastructure Conversion Costs and Time Requirements
+   - High costs and lengthy timeframes associated with converting existing AC infrastructure to DC may deter some organizations from adopting DC technology, particularly those operating on tight budgets or with limited resources.
+
+3. Limited Availability of Skilled Personnel
+   - The need for skilled personnel trained in the design, installation, and maintenance of DC systems can present a barrier to widespread adoption, as such professionals may be in short supply relative to demand.
+
+4. Compatibility Issues with Existing Equipment and Systems
+   - Potential compatibility issues between DC components and existing AC equipment or systems could create challenges for seamless integration, leading some organizations to hesitate adopting DC technology.
+
+5. Perceived Risk of New Technology in Critical Infrastructure Applications
+   - The perceived risk associated with implementing new technology in critical infrastructure applications may deter some organizations from adopting DC, as decision-makers may prioritize proven solutions over newer alternatives.

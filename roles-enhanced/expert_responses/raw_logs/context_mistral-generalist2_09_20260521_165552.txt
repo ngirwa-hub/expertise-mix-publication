@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Lack of Standardized Regulations for DC Transmission**
+Explanation: The absence of universally accepted regulations for DC transmission infrastructure could hinder widespread adoption, as it may lead to confusion, inconsistencies, and potential safety risks across different regions.
+
+Title 2: **Investment Hesitancy Due to Unproven Long-Term Cost-Benefit Analysis**
+Explanation: Investors might be wary of committing resources to DC technology due to a perceived lack of concrete long-term cost-benefit analysis, particularly in comparison to established AC systems.
+
+Title 3: **Limited Interoperability Between Existing AC Systems and New DC Solutions**
+Explanation: A lack of compatibility between existing AC infrastructure and new DC technologies could pose challenges during integration, leading to increased costs and potential delays in deployment.
+
+Title 4: **Skill Gap in DC Technology Expertise Among Workforce**
+Explanation: The renewable energy workforce may not yet have the necessary expertise to effectively design, install, maintain, and troubleshoot DC systems, which could slow down adoption and increase training costs.
+
+Title 5: **Perceived Risk of Technological Lock-In Due to Proprietary DC Solutions**
+Explanation: The use of proprietary solutions in DC technology could create a risk of technological lock-in for adopters, as they may become reliant on specific vendors and face challenges when switching to more competitive offerings in the future.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Standardization Laggardism**
+   Lack of standardized designs and interoperability across DC components, leading to increased complexity and costs in system integration.
+
+2. **Regulatory Hurdles**
+   Inconsistent or insufficient regulatory frameworks for the widespread use of low and medium voltage DC systems, causing legal uncertainty and potential compliance issues.
+
+3. **Infrastructure Adaptation**
+   Existing infrastructure primarily built around AC systems may require significant upgrades to support DC networks, leading to high costs and disruptions during transition phases.
+
+4. **Training and Skills Gap**
+   Insufficient training programs for technicians and engineers in DC technologies, creating a skills gap that could slow down the adoption rate and increase dependence on external expertise.
+
+5. **Financial Risks and Uncertainty**
+   Perceived financial risks associated with the high upfront costs of implementing DC systems compared to AC alternatives, making it challenging for stakeholders to secure investments in DC projects.

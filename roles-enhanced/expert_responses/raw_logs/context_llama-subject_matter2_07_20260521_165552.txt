@@ -1,0 +1,37 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Cost Efficiency** - Higher initial investment costs for DC systems compared to AC systems, making it difficult for small businesses or residential users to adopt DC technology on a large scale.
+2. **Lack of Awareness and Understanding** - Limited knowledge about the benefits of DC systems among end-users, industry professionals, and policymakers, leading to slow adoption rates.
+3. **Regulatory Uncertainty** - Inconsistent regulations and standards for DC systems across different regions, making it challenging for companies to invest in and expand their DC infrastructure.
+4. **Technical Complexity** - The complexity of designing, installing, and maintaining DC systems presents a significant challenge for industries that are not specialized in DC technology.
+5. **Infrastructure Challenges** - Limited availability and accessibility to necessary hardware components, such as converters and cables, for widespread adoption of DC systems in various industries.
+
+
+=== Attempt 2 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. Lack of standardization in DC equipment and components
+2. Inadequate workforce training for safe and effective operation
+3. High initial investment compared to traditional AC systems
+4. Limited availability of DC-compatible grid infrastructure
+5. Resistance from incumbent utilities or industry players due to potential market disruption
+
+
+=== Attempt 3 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Regulatory Complexity
+Title: Difficulty in Adapting Existing Regulations
+Explanation: Modifying existing regulations for DC systems can be challenging due to the lack of clear guidelines and standardization. This may lead to legal ambiguities, increased costs, and longer implementation times.
+
+1. High Initial Investment
+Title: Significant Capital Required
+Explanation: Implementing DC systems often involves significant investments in new hardware, software, and infrastructure, which can be prohibitively expensive for smaller organizations or projects with limited budgets.
+
+1. Skilled Workforce Shortage
+Title: Insufficient Talent Pool
+Explanation: The shift to DC technologies requires specialized skills that may not be widely available within the workforce. This skills gap can slow down the adoption process and lead to delays in implementation and commissioning.
+
+1. Limited Interoperability
+Title: Challenges with Integrating DC Systems
+Explanation: The interoperability of DC systems with existing AC infrastructure can be problematic, requiring additional hardware or software components that may not be compatible or may require significant customization.
+
+1. Public Perception and Trust
+Title: Overcoming Skepticism and Fears
+Explanation: Public acceptance and trust in the safety and reliability of DC systems are essential for their widespread adoption. This can be a barrier, particularly when dealing with new technologies or those that have not yet gained widespread acceptance. Education and awareness campaigns may be needed to overcome these concerns.
+

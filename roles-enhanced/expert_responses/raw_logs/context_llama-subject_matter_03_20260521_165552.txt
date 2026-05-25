@@ -1,0 +1,20 @@
+=== Attempt 1 | parsed barriers: 2 | transport attempts: 1 | transport error: None ===
+1. **Cost of Infrastructure Upgrade** - High initial investment costs for upgrading existing infrastructure to support DC systems, especially in regions with aging power grids or outdated electrical installations.
+2. **Limited Availability of Hardware Components** - Limited availability and high cost of specialized hardware components required for implementing DC systems, particularly in emerging markets or regions where manufacturing capabilities are limited.
+3. **Insufficient Regulatory Standards** - Inadequate regulatory standards and policy frameworks for DC technology adoption, leading to uncertainty and reluctance among stakeholders to invest in new technologies.
+4. **Technical Complexity** - High level of technical expertise required for the design, installation, and maintenance of DC systems, which could be a barrier for smaller businesses or those without dedicated engineering resources.
+5. **Public Perception** - Negative public perception or lack of awareness about the benefits of DC technology, hindering its widespread adoption and implementation in various sectors such as industry, buildings, data centers, and ports.
+
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+1. Title: High Initial Investment for DC Systems
+Explanation: The initial cost of setting up a direct current (DC) system can be significantly higher than that of traditional alternating current (AC) systems, which may deter potential adopters from investing in these technologies.
+2. Title: Skills Gap and Training Issues
+Explanation: A lack of knowledge and expertise in DC technologies among professionals, as well as insufficient training programs for DC systems, can hinder the widespread adoption of these systems.
+3. Title: Legacy Infrastructure and Compatibility Challenges
+Explanation: Many existing infrastructures and devices are designed to work with AC power, making it difficult to replace them with DC systems without undergoing extensive retrofitting or replacing the entire system.
+4. Title: Lack of Standardized Testing and Certification Procedures
+Explanation: The absence of universally recognized testing and certification procedures for DC systems can result in uncertainty regarding their safety, reliability, and performance, discouraging potential adopters from adopting these technologies.
+5. Title: Public Perception and Acceptance
+Explanation: A lack of understanding or awareness about the benefits of DC systems among the general public and decision-makers can contribute to slow adoption rates, as they may perceive it as a less reliable or more complex alternative to AC systems.
+

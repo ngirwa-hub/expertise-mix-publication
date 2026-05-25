@@ -1,0 +1,33 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ Title 1: **Regulatory Barriers - Lack of Standardized Guidelines**
+Explanation: The absence of standardized guidelines for low and medium voltage DC systems across different regions could pose a significant barrier to widespread adoption, as it may lead to confusion, inconsistencies, and potential incompatibilities among various stakeholders.
+
+Title 2: **Infrastructure Investment - High Initial Costs**
+Explanation: The high initial costs associated with upgrading existing AC infrastructure to DC systems can be a major barrier for many organizations, particularly those with limited budgets or smaller operations.
+
+Title 3: **Skills Gap - Lack of Expertise in DC Technologies**
+Explanation: A lack of expertise and familiarity among workers in the field can create resistance to adopting DC technologies, as they may feel uncomfortable working with unfamiliar equipment and methodologies.
+
+Title 4: **Interoperability Issues - Compatibility Challenges**
+Explanation: Ensuring compatibility between different DC components, such as converters, cables, and software tools, can be challenging due to varying standards and proprietary technologies. This could lead to integration problems and increased costs.
+
+Title 5: **Public Perception - Misconceptions and Fears**
+Explanation: Public misconceptions or fears about the safety, reliability, or long-term impact of DC systems can hinder adoption and create resistance from end-users. Addressing these perceptions through education and outreach efforts will be crucial for overcoming this barrier.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Standardization Barrier
+   Lack of standardized protocols and interfaces for DC systems, making it difficult for different components to work together seamlessly.
+
+2. Infrastructure Investment Barrier
+   High upfront costs for infrastructure modifications required to switch from AC to DC, particularly in existing buildings and power grids.
+
+3. Training and Skills Gap
+   Insufficient training and expertise among technicians and engineers in the design, installation, and maintenance of DC systems, leading to potential errors and increased costs.
+
+4. Regulatory Hurdles
+   Unclear or conflicting regulations regarding the implementation and operation of DC systems across different jurisdictions, which can discourage adoption due to uncertainty and potential legal issues.
+
+5. Interoperability Issues
+   Compatibility problems between DC components from different manufacturers, leading to inefficiencies and increased costs when trying to create a cohesive DC network.
+
+These barriers, not already mentioned, could potentially hinder the widespread adoption of direct current (DC) technologies. Each issue requires careful consideration and appropriate solutions to ensure successful implementation of the Shift2DC project.

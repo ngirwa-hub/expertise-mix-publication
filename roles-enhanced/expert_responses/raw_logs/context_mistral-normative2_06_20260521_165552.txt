@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Compatibility Challenges with Existing Infrastructure**
+Explanation: The integration of direct current (DC) systems with existing alternating current (AC) infrastructure may pose significant compatibility issues, requiring costly upgrades or modifications to ensure seamless operation.
+
+**Title 2: Standardization Disparities Across Jurisdictions**
+Explanation: Lack of harmonized standards for DC technologies and equipment across different countries could lead to incompatibilities, making it difficult to implement and adopt DC systems on a global scale.
+
+**Title 3: Training and Skills Gap**
+Explanation: The need for specialized training and skills to maintain and operate DC systems may create a gap between the current workforce and the demands of the emerging DC technology landscape, potentially slowing down adoption rates.
+
+**Title 4: Lack of Awareness and Education among End-Users**
+Explanation: Insufficient awareness and education about the benefits, safety, and practical applications of DC technologies among end-users could hinder widespread adoption, as there may be concerns or misconceptions that need to be addressed.
+
+**Title 5: Investment Risk Perception**
+Explanation: The perceived investment risk associated with adopting new technology, such as DC systems, may deter potential investors, as they might be hesitant to commit resources without a proven track record of success and widespread adoption in the market.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. **Lack of Standardized DC Infrastructure**
+   The absence of uniform standards for DC infrastructure could lead to incompatibility issues among various components, hindering widespread adoption.
+
+2. **Cost and Financial Barriers**
+   High upfront costs associated with converters, cables, and other DC equipment might deter potential adopters, especially for smaller-scale projects.
+
+3. **Regulatory Uncertainty**
+   Unclear or inconsistent regulatory frameworks across regions may create barriers to the deployment of DC technologies, leading to uncertainty for project developers.
+
+4. **Technical Training and Expertise**
+   The need for specialized knowledge in DC systems might limit the pool of qualified professionals available to design, install, and maintain these systems, causing delays and increased costs.
+
+5. **Interoperability Challenges with AC Systems**
+   Compatibility issues between existing AC infrastructure and new DC implementations could pose challenges during integration, leading to longer project timelines and higher costs.

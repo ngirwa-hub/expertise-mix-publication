@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Lack of Standardization for DC Components**
+Explanation: The absence of universal standards for DC components, such as cables, connectors, and converters, can hinder widespread adoption due to compatibility issues between different manufacturers' products.
+
+**Title 2: Limited Availability of Skilled Personnel**
+Explanation: The relatively small pool of engineers and technicians with expertise in DC systems could pose a barrier to rapid deployment and maintenance of DC infrastructure, potentially slowing down the transition from AC.
+
+**Title 3: Inadequate Investment in Research & Development (R&D)**
+Explanation: Insufficient funding for research and development into DC technologies may lead to slower progress in addressing technical challenges, such as improving efficiency, reducing costs, and enhancing safety features.
+
+**Title 4: High Upfront Costs of Conversion Equipment**
+Explanation: The expense associated with converting existing AC infrastructure to DC could deter potential adopters, particularly for smaller organizations or projects with limited budgets.
+
+**Title 5: Resistance to Change in Established Infrastructure**
+Explanation: The reluctance of stakeholders, such as utilities and regulatory bodies, to adopt new technologies may act as a barrier, especially if there is uncertainty around the long-term benefits and implications of transitioning from AC.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Standardization Challenges in DC Components and Systems
+- Lack of universal standards for direct current (DC) components, systems, and interoperability could lead to compatibility issues and increased costs during installation, maintenance, and replacement.
+
+2. Training and Skill Gap among Technicians
+- The need for specialized training on DC systems may create a skill gap among technicians, leading to difficulties in troubleshooting, repair, and maintenance. This could potentially prolong downtime and increase operational costs.
+
+3. Infrastructure Adaptation and Upgrades
+- Existing electrical infrastructure is primarily designed for alternating current (AC) power distribution. Transitioning to DC would require significant upgrades to the infrastructure, including power conversion equipment and modifications to buildings, which could be costly and time-consuming.
+
+4. Integration with Existing AC Grid
+- Smooth integration of DC systems with the existing AC grid is essential for seamless power flow. However, challenges in managing bidirectional energy transfer and voltage level conversions may cause instability and disrupt the overall power system.
+
+5. Regulatory Barriers and Compliance Issues
+- The adoption of DC technologies might encounter regulatory barriers due to the lack of clear guidelines and standards specific to DC systems. This could lead to delays in project approvals, increased compliance costs, and potential non-compliance risks.

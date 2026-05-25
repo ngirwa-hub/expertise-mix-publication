@@ -1,0 +1,31 @@
+=== Attempt 1 | parsed barriers: 0 | transport attempts: 1 | transport error: None ===
+ **Title 1: Lack of Standardized Regulations for DC Infrastructure**
+- Explanation: The absence of uniform regulations and guidelines for designing, installing, and maintaining DC infrastructure could pose challenges in terms of compatibility, safety, and interoperability across different regions and jurisdictions.
+
+**Title 2: Insufficient Training and Skills for DC Technicians**
+- Explanation: As DC systems become more prevalent, there is a need for qualified technicians to install, maintain, and troubleshoot them effectively. However, the current workforce may not be adequately trained in DC technologies, creating a skills gap that could hinder widespread adoption.
+
+**Title 3: High Initial Investment Costs for Converters and Equipment**
+- Explanation: The cost of DC converters, cables, and other equipment can be significantly higher than their AC counterparts, making it challenging for some industries to justify the initial investment required for transitioning to DC systems.
+
+**Title 4: Compatibility Issues with Existing AC Infrastructure**
+- Explanation: Integrating DC systems with existing AC infrastructure may present challenges due to differences in voltage levels, frequency, and power quality. This could require expensive retrofits or upgrades to ensure seamless operation.
+
+**Title 5: Uncertainty Regarding Future Grid Infrastructure Evolution**
+- Explanation: The future evolution of grid infrastructure is uncertain, with potential shifts towards distributed energy resources and microgrids. The uncertainty surrounding these developments could deter investments in DC technologies, as decision-makers may be reluctant to commit resources to systems that might not align with the evolving grid landscape.
+
+=== Attempt 2 | parsed barriers: 5 | transport attempts: 1 | transport error: None ===
+ 1. Lack of Standardization in DC Components and Interfaces
+   The absence of universally accepted standards for DC components and interfaces can lead to compatibility issues, increasing complexity during installation and maintenance.
+
+2. Inadequate Training and Skills for DC Technicians
+   Insufficient training programs and certification schemes for technicians working on DC systems may result in a shortage of skilled professionals capable of installing, maintaining, and troubleshooting these systems effectively.
+
+3. Limited Availability of High-Quality DC Cables
+   The availability of high-performance, cost-effective DC cables is crucial for the widespread adoption of DC systems. However, the current market offers limited options, causing concerns about reliability and durability.
+
+4. Regulatory Hurdles for DC Infrastructure Deployment
+   Existing regulations may not be fully aligned with the needs of DC infrastructure deployment, leading to permitting delays, increased costs, and potential project disruptions.
+
+5. Insufficient Investment in Research and Development
+   Lack of investment in research and development can hinder the advancement of DC technologies, slowing down the improvement of efficiency, safety, and cost-effectiveness, thereby hindering their widespread adoption.
