@@ -10,7 +10,7 @@ Whereby: we have three folders (scrapping, working_dir, and roles-enhanced).
     - working_dir/src-roles/role-embeddings.py: for generating embeddings from each of the generated profiles
     - working_dir/src-roles/role-similarity.py: computing cosine similarity between the embeddings of the related role-profiles
     - the final role-profiles are at: working_dir/final_mds/final-profiles/
-- Assessment of similarity between similar role-profiles (target to indetify that the second profile in similar role is not a redundant) [path: scrapping/working_dir/src-btn-profile/...]: 
+- Assessment of similarity between similar role-profiles (target to identify that the second profile in similar role is not a redundant) [path: scrapping/working_dir/src-btn-profile/...]: 
     - inter-role-coherence.ipynb: is the notebook that contains all of he steps taken from role-prifles embeddings, to cosine similarity computations
     - betweeen_profile_similarity_heatmap.png: is the heatmap of the cosine similarity computed using the notebook.
 
