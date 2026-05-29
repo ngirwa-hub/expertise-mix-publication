@@ -1,5 +1,7 @@
-This repository contains experiments performed and their results, as included in the <Anonymized-conference> manuscript. 
+This repository contains contents in two categories, the online appendix file and the experiments performed and their results, as included in the <Anonymized-conference> manuscript. 
+1. The online appendix is a PDF file found in the root, named: Online appendix.pdf
 
+2. The experiements contents.
 Whereby: we have three folders (scrapping, working_dir, and roles-enhanced). 
 
 **Scrapping & Working_dir folder:** contains the initial context gathered when we obtained job advertisements to generate role profiles for LLM variants; more descriptions on core-scripts/files: 
