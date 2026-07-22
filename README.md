@@ -45,3 +45,6 @@ We have three folders (scrapping, working_dir, and roles-enhanced).
         - #cell 7b: the Sankey plot on the theme-subthemes mappings (in three different formats to increase quality—.pdf, .png, and .eps). In the paper we used the .eps format.
 
     9. Jaccard similarity index: #cell 8 compares similar role variants for within-model and between-model similarity. Here the heatmap outputs are in three formats; in the paper we used the .eps format too.
+
+
+- The PDF file named online-appendix.pdf was used to present some of the outputs during the initial manuscript review stage. For the current version of the paper, some content has been included in the manuscript, while some has been omitted due to page limitations. The omitted content can still be followed up using the computations available in this repository.
